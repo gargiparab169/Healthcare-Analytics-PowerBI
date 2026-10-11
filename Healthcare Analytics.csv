@@ -1,0 +1,1001 @@
+Patient_ID,Admission_Date,Discharge_Date,Age,Gender,Medical_Condition,Department,Treatment,Doctor_ID,Treatment_Cost,Length_of_Stay,Outcome,Location,Insurance_Type,Payment_Status
+P00461,01-09-2025,02-09-2025,81,Male,Migraine,Neurology,Consultation,D102,3400.0,1,Recovered,Navi Mumbai,Self-Pay,Partially Paid
+P00038,01-09-2025,02-09-2025,56,Female,Pneumonia,Pediatrics,Medication,D107,12300.0,1,Recovered,Aurangabad,Government,Partially Paid
+P00549,02-09-2025,12-09-2025,82,Female,Fracture,Orthopedics,Physiotherapy,D130,16600.0,10,Recovered,Thane,Private,Paid
+P00370,03-09-2025,06-09-2025,16,Male,Heart Attack,Cardiology,Medication,D126,11700.0,3,Recovered,Navi Mumbai,Corporate,Pending
+P00642,03-09-2025,08-09-2025,75,Male,Ulcer,Gastroenterology,Medication,D126,11500.0,5,Recovered,Nashik,Corporate,Partially Paid
+P00305,03-09-2025,10-09-2025,48,Male,Heart Attack,Cardiology,Angioplasty,D101,96200.0,7,Recovered,Thane,Government,Partially Paid
+P00173,04-09-2025,08-09-2025,58,Female,Pneumonia,Pediatrics,Medication,D121,14200.0,4,Recovered,Navi Mumbai,Government,Paid
+P00740,04-09-2025,06-09-2025,35,Female,Dermatitis,Dermatology,Consultation,D114,3100.0,2,Recovered,Navi Mumbai,Self-Pay,Partially Paid
+P00196,04-09-2025,06-09-2025,2,Male,Ovarian Cyst,Gynecology,Ultrasound,D110,6400.0,2,Recovered,Mumbai,Corporate,Paid
+P00046,04-09-2025,07-09-2025,54,Male,Hypertension,General Medicine,Consultation,D116,3100.0,3,Recovered,Mumbai,Corporate,Pending
+P00983,05-09-2025,06-09-2025,38,Female,Asthma,Pediatrics,Consultation,D105,2900.0,1,Improved,Nagpur,Government,Partially Paid
+P00436,05-09-2025,08-09-2025,35,Female,Stroke,Neurology,Medication,D128,15200.0,3,Recovered,Kalyan,Government,Pending
+P00680,05-09-2025,06-09-2025,19,Male,Ovarian Cyst,Gynecology,Medication,D118,10700.0,1,Stable,Mumbai,Corporate,Pending
+P00499,05-09-2025,06-09-2025,13,Male,Migraine,Neurology,Consultation,D102,3600.0,1,Recovered,Mumbai,Private,Paid
+P00401,05-09-2025,06-09-2025,30,Male,Acne,Dermatology,Skin Treatment,D108,9000.0,1,Recovered,Nashik,Corporate,Pending
+P00155,05-09-2025,12-09-2025,34,Female,Stroke,Neurology,Surgery,D107,74300.0,7,Improved,Navi Mumbai,Self-Pay,Paid
+P00199,05-09-2025,06-09-2025,56,Female,Arthritis,Orthopedics,Medication,D102,9700.0,1,Improved,Thane,Government,Partially Paid
+P00703,06-09-2025,15-09-2025,51,Male,Fracture,Orthopedics,Physiotherapy,D113,18000.0,9,Improved,Thane,Government,Paid
+P00994,06-09-2025,10-09-2025,68,Male,Tumor,Oncology,Chemotherapy,D104,49000.0,4,Recovered,Navi Mumbai,Self-Pay,Partially Paid
+P00860,06-09-2025,11-09-2025,81,Male,Back Pain,Orthopedics,Medication,D112,9800.0,5,Recovered,Aurangabad,Private,Paid
+P00995,07-09-2025,12-09-2025,83,Female,Injury,Emergency,Surgery,D109,101100.0,5,Improved,Mumbai,Private,Partially Paid
+P00808,07-09-2025,12-09-2025,50,Male,Accident,Emergency,Emergency Treatment,D127,36700.0,5,Recovered,Mumbai,Government,Paid
+P00987,08-09-2025,11-09-2025,55,Female,Tumor,Oncology,Chemotherapy,D121,85200.0,3,Improved,Thane,Private,Partially Paid
+P00560,08-09-2025,13-09-2025,25,Female,PCOS,Gynecology,Ultrasound,D101,5100.0,5,Improved,Pune,Government,Partially Paid
+P00936,08-09-2025,10-09-2025,11,Male,Infection,Pediatrics,Consultation,D119,3600.0,2,Recovered,Kalyan,Private,Partially Paid
+P00159,09-09-2025,10-09-2025,15,Female,Hypertension,General Medicine,Monitoring,D101,7100.0,1,Improved,Aurangabad,Self-Pay,Partially Paid
+P00183,09-09-2025,12-09-2025,13,Male,Cancer,Oncology,Chemotherapy,D102,82800.0,3,Recovered,Kalyan,Corporate,Paid
+P00804,09-09-2025,12-09-2025,14,Female,Ovarian Cyst,Gynecology,Medication,D121,15800.0,3,Recovered,Thane,Corporate,Paid
+P00404,10-09-2025,11-09-2025,3,Male,Arthritis,Orthopedics,Consultation,D105,4000.0,1,Recovered,Aurangabad,Private,Paid
+P00933,10-09-2025,11-09-2025,6,Male,Acne,Dermatology,Consultation,D110,3000.0,1,Recovered,Mumbai,Self-Pay,Paid
+P00720,10-09-2025,15-09-2025,49,Male,Severe Infection,Emergency,Medication,D101,12600.0,5,Improved,Thane,Private,Partially Paid
+P00013,10-09-2025,18-09-2025,31,Male,Stroke,Neurology,Physiotherapy,D127,14400.0,8,Improved,Pune,Government,Paid
+P00932,11-09-2025,15-09-2025,36,Female,Gastritis,Gastroenterology,Endoscopy,D102,11200.0,4,Referred,Nagpur,Corporate,Pending
+P00434,12-09-2025,13-09-2025,69,Male,Diabetes,General Medicine,Monitoring,D109,5200.0,1,Improved,Aurangabad,Government,Partially Paid
+P00424,12-09-2025,14-09-2025,72,Male,Infection,Pediatrics,Emergency Treatment,D105,36300.0,2,Recovered,Nashik,Self-Pay,Pending
+P00033,13-09-2025,20-09-2025,36,Male,Tumor,Oncology,Chemotherapy,D127,73800.0,7,Recovered,Navi Mumbai,Private,Paid
+P00973,13-09-2025,19-09-2025,35,Male,Cancer,Oncology,Chemotherapy,D129,64400.0,6,Stable,Nagpur,Private,Paid
+P00673,13-09-2025,17-09-2025,33,Male,Severe Infection,Emergency,Medication,D111,11500.0,4,Recovered,Thane,Private,Partially Paid
+P00925,14-09-2025,19-09-2025,3,Female,Tumor,Oncology,MRI,D114,17500.0,5,Recovered,Nashik,Private,Pending
+P00820,14-09-2025,20-09-2025,14,Male,Acne,Dermatology,Medication,D106,12400.0,6,Improved,Mumbai,Government,Pending
+P00997,15-09-2025,22-09-2025,23,Male,Severe Infection,Emergency,Emergency Treatment,D123,37000.0,7,Recovered,Mumbai,Self-Pay,Paid
+P00203,16-09-2025,18-09-2025,30,Female,Pneumonia,Pediatrics,Emergency Treatment,D113,38800.0,2,Improved,Pune,Self-Pay,Paid
+P00292,16-09-2025,22-09-2025,77,Female,Tumor,Oncology,Chemotherapy,D119,55700.0,6,Stable,Navi Mumbai,Self-Pay,Paid
+P00467,17-09-2025,18-09-2025,64,Male,Pneumonia,Pediatrics,Medication,D106,11200.0,1,Improved,Pune,Self-Pay,Paid
+P00827,17-09-2025,20-09-2025,73,Male,Tumor,Oncology,Surgery,D110,58300.0,3,Recovered,Mumbai,Self-Pay,Pending
+P00087,18-09-2025,27-09-2025,17,Male,Injury,Emergency,Physiotherapy,D126,18000.0,9,Recovered,Navi Mumbai,Self-Pay,Paid
+P00080,19-09-2025,22-09-2025,81,Female,Accident,Emergency,Surgery,D114,101100.0,3,Improved,Pune,Private,Pending
+P00884,19-09-2025,25-09-2025,9,Male,Injury,Emergency,Surgery,D123,68600.0,6,Stable,Kalyan,Corporate,Pending
+P00491,19-09-2025,24-09-2025,73,Female,Severe Infection,Emergency,Medication,D110,10200.0,5,Recovered,Mumbai,Self-Pay,Pending
+P00767,19-09-2025,24-09-2025,28,Male,Cancer,Oncology,Surgery,D120,72400.0,5,Recovered,Kalyan,Private,Partially Paid
+P00584,19-09-2025,26-09-2025,18,Male,Cancer,Oncology,Surgery,D122,67900.0,7,Stable,Nashik,Private,Partially Paid
+P00722,20-09-2025,21-09-2025,43,Male,Tumor,Oncology,MRI,D125,13800.0,1,Improved,Mumbai,Corporate,Partially Paid
+P00958,21-09-2025,27-09-2025,1,Female,Ovarian Cyst,Gynecology,Surgery,D107,93700.0,6,Recovered,Nagpur,Corporate,Partially Paid
+P00069,21-09-2025,24-09-2025,84,Female,Fracture,Orthopedics,X-Ray,D116,4400.0,3,Improved,Pune,Corporate,Pending
+P00563,21-09-2025,28-09-2025,15,Female,Stroke,Neurology,Physiotherapy,D115,16900.0,7,Referred,Thane,Corporate,Pending
+P00706,21-09-2025,23-09-2025,59,Female,Stroke,Neurology,Medication,D110,14000.0,2,Improved,Kalyan,Government,Pending
+P00227,22-09-2025,24-09-2025,55,Male,Liver Disease,Gastroenterology,Medication,D102,10800.0,2,Stable,Aurangabad,Self-Pay,Pending
+P00098,23-09-2025,24-09-2025,83,Male,Pregnancy Complication,Gynecology,Emergency Treatment,D113,35400.0,1,Recovered,Kalyan,Private,Pending
+P00944,23-09-2025,26-09-2025,4,Male,Asthma,Pediatrics,Nebulization,D117,5600.0,3,Stable,Navi Mumbai,Government,Pending
+P00811,23-09-2025,27-09-2025,14,Female,Epilepsy,Neurology,MRI,D105,11500.0,4,Recovered,Navi Mumbai,Self-Pay,Paid
+P00654,24-09-2025,29-09-2025,56,Male,Gastritis,Gastroenterology,Endoscopy,D111,12000.0,5,Stable,Kalyan,Self-Pay,Paid
+P00969,24-09-2025,25-09-2025,29,Male,Pneumonia,Pediatrics,Emergency Treatment,D120,36700.0,1,Referred,Navi Mumbai,Government,Partially Paid
+P00040,24-09-2025,28-09-2025,10,Female,Tumor,Oncology,MRI,D107,15000.0,4,Improved,Kalyan,Corporate,Pending
+P00514,24-09-2025,01-10-2025,9,Male,Accident,Emergency,Emergency Treatment,D106,41100.0,7,Improved,Navi Mumbai,Government,Pending
+P00793,25-09-2025,03-10-2025,7,Female,Arthritis,Orthopedics,Physiotherapy,D106,23300.0,8,Recovered,Nagpur,Corporate,Pending
+P00328,25-09-2025,26-09-2025,62,Male,Pregnancy Complication,Gynecology,Monitoring,D127,7000.0,1,Recovered,Nashik,Private,Pending
+P00456,26-09-2025,03-10-2025,21,Female,Stroke,Neurology,Surgery,D120,83700.0,7,Improved,Nashik,Corporate,Partially Paid
+P00946,27-09-2025,02-10-2025,68,Female,Injury,Emergency,Physiotherapy,D119,16900.0,5,Recovered,Nagpur,Government,Pending
+P00802,27-09-2025,30-09-2025,15,Male,Cancer,Oncology,Medication,D112,13700.0,3,Improved,Navi Mumbai,Private,Partially Paid
+P00028,27-09-2025,30-09-2025,36,Male,Epilepsy,Neurology,MRI,D121,11300.0,3,Stable,Nagpur,Government,Partially Paid
+P00018,28-09-2025,29-09-2025,44,Male,Migraine,Neurology,Consultation,D115,2700.0,1,Recovered,Nashik,Corporate,Paid
+P00568,28-09-2025,02-10-2025,4,Male,Stroke,Neurology,Medication,D105,11800.0,4,Improved,Nagpur,Private,Paid
+P00906,29-09-2025,06-10-2025,62,Male,Stroke,Neurology,Physiotherapy,D118,22400.0,7,Stable,Nagpur,Corporate,Partially Paid
+P00507,29-09-2025,03-10-2025,44,Male,Stroke,Neurology,Medication,D118,11100.0,4,Recovered,Mumbai,Corporate,Partially Paid
+P00178,30-09-2025,03-10-2025,40,Male,Pregnancy Complication,Gynecology,Monitoring,D124,5900.0,3,Stable,Thane,Private,Paid
+P00732,30-09-2025,01-10-2025,32,Male,Acne,Dermatology,Skin Treatment,D112,7300.0,1,Stable,Mumbai,Government,Pending
+P00419,30-09-2025,08-10-2025,6,Male,Injury,Emergency,Physiotherapy,D104,15800.0,8,Improved,Thane,Corporate,Paid
+P00411,01-10-2025,04-10-2025,20,Male,Hypertension,Cardiology,Monitoring,D125,8000.0,3,Stable,Navi Mumbai,Corporate,Partially Paid
+P00644,02-10-2025,03-10-2025,28,Female,Skin Allergy,Dermatology,Consultation,D113,2400.0,1,Improved,Kalyan,Self-Pay,Partially Paid
+P00573,02-10-2025,05-10-2025,17,Female,Heart Attack,Cardiology,Angioplasty,D111,69000.0,3,Stable,Kalyan,Private,Pending
+P00792,02-10-2025,05-10-2025,7,Female,Pregnancy Complication,Gynecology,Monitoring,D112,4900.0,3,Recovered,Kalyan,Government,Pending
+P00625,02-10-2025,03-10-2025,74,Female,PCOS,Gynecology,Consultation,D104,3400.0,1,Stable,Aurangabad,Self-Pay,Pending
+P00915,02-10-2025,07-10-2025,5,Male,Injury,Emergency,Surgery,D106,84700.0,5,Recovered,Navi Mumbai,Private,Partially Paid
+P00446,04-10-2025,06-10-2025,63,Female,Fracture,Orthopedics,X-Ray,D114,5100.0,2,Stable,Kalyan,Private,Partially Paid
+P00008,04-10-2025,07-10-2025,84,Female,Tumor,Oncology,Surgery,D115,74100.0,3,Stable,Nashik,Self-Pay,Paid
+P00675,04-10-2025,05-10-2025,8,Female,Arthritis,Orthopedics,Medication,D102,9700.0,1,Recovered,Nagpur,Corporate,Pending
+P00579,05-10-2025,07-10-2025,55,Male,Severe Infection,Emergency,Medication,D110,14900.0,2,Improved,Kalyan,Self-Pay,Paid
+P00711,05-10-2025,08-10-2025,32,Female,Epilepsy,Neurology,Consultation,D101,3800.0,3,Recovered,Pune,Government,Pending
+P00140,05-10-2025,13-10-2025,50,Male,Tumor,Oncology,Chemotherapy,D112,72300.0,8,Improved,Navi Mumbai,Corporate,Paid
+P00503,06-10-2025,07-10-2025,51,Male,Gastritis,Gastroenterology,Consultation,D120,3200.0,1,Recovered,Pune,Corporate,Partially Paid
+P00036,06-10-2025,07-10-2025,85,Male,Fever,General Medicine,Consultation,D110,3500.0,1,Recovered,Kalyan,Self-Pay,Pending
+P00067,07-10-2025,08-10-2025,77,Female,Heart Disease,Cardiology,Medication,D109,11200.0,1,Recovered,Aurangabad,Corporate,Paid
+P00473,07-10-2025,08-10-2025,70,Female,Infection,Pediatrics,Consultation,D113,3900.0,1,Recovered,Mumbai,Private,Pending
+P00611,07-10-2025,08-10-2025,12,Female,Ovarian Cyst,Gynecology,Ultrasound,D101,7300.0,1,Recovered,Thane,Government,Pending
+P00502,08-10-2025,09-10-2025,50,Female,Asthma,Pediatrics,Consultation,D127,4000.0,1,Recovered,Nagpur,Government,Pending
+P00276,08-10-2025,11-10-2025,41,Female,Hypertension,Cardiology,Medication,D106,15900.0,3,Recovered,Kalyan,Government,Partially Paid
+P00204,08-10-2025,14-10-2025,49,Male,Stroke,Neurology,Surgery,D104,89500.0,6,Recovered,Pune,Private,Pending
+P00974,08-10-2025,09-10-2025,54,Male,Ovarian Cyst,Gynecology,Medication,D120,9100.0,1,Stable,Nashik,Private,Partially Paid
+P00337,09-10-2025,10-10-2025,66,Male,Arthritis,Orthopedics,Consultation,D119,3300.0,1,Recovered,Nagpur,Private,Pending
+P00277,09-10-2025,10-10-2025,77,Female,PCOS,Gynecology,Consultation,D114,3400.0,1,Improved,Nashik,Private,Paid
+P00555,10-10-2025,12-10-2025,62,Female,Migraine,Neurology,Medication,D120,14900.0,2,Stable,Navi Mumbai,Government,Partially Paid
+P00942,10-10-2025,13-10-2025,66,Male,Pregnancy Complication,Gynecology,Surgery,D112,66900.0,3,Recovered,Kalyan,Private,Partially Paid
+P00082,11-10-2025,20-10-2025,31,Female,Injury,Emergency,Physiotherapy,D115,23400.0,9,Recovered,Nagpur,Corporate,Pending
+P00112,11-10-2025,12-10-2025,44,Male,Acne,Dermatology,Skin Treatment,D117,6600.0,1,Recovered,Pune,Government,Pending
+P00149,12-10-2025,15-10-2025,34,Male,Heart Attack,Cardiology,Medication,D121,13600.0,3,Improved,Nagpur,Self-Pay,Pending
+P00689,12-10-2025,13-10-2025,9,Male,Liver Disease,Gastroenterology,CT Scan,D116,11400.0,1,Improved,Aurangabad,Government,Pending
+P00841,12-10-2025,13-10-2025,54,Male,Infection,Pediatrics,Consultation,D129,3700.0,1,Recovered,Kalyan,Self-Pay,Pending
+P00809,13-10-2025,15-10-2025,77,Male,Asthma,Pediatrics,Nebulization,D127,6100.0,2,Improved,Navi Mumbai,Private,Paid
+P00343,13-10-2025,14-10-2025,69,Male,Migraine,Neurology,MRI,D122,16900.0,1,Recovered,Kalyan,Private,Paid
+P00618,13-10-2025,14-10-2025,41,Female,Dermatitis,Dermatology,Skin Treatment,D126,8400.0,1,Recovered,Nagpur,Self-Pay,Paid
+P00492,13-10-2025,21-10-2025,36,Female,Back Pain,Orthopedics,Physiotherapy,D128,14900.0,8,Recovered,Nagpur,Private,Partially Paid
+P00433,14-10-2025,19-10-2025,32,Male,Epilepsy,Neurology,Medication,D104,9100.0,5,Improved,Nagpur,Corporate,Pending
+P00039,14-10-2025,22-10-2025,82,Female,Infection,Pediatrics,Emergency Treatment,D126,40100.0,8,Recovered,Thane,Government,Paid
+P00621,15-10-2025,24-10-2025,25,Male,Arthritis,Orthopedics,Physiotherapy,D116,15500.0,9,Recovered,Nashik,Government,Pending
+P00818,15-10-2025,21-10-2025,27,Male,Tumor,Oncology,Surgery,D105,72600.0,6,Recovered,Pune,Private,Pending
+P00746,15-10-2025,16-10-2025,60,Male,Infection,Pediatrics,Emergency Treatment,D116,58000.0,1,Referred,Thane,Government,Paid
+P00145,15-10-2025,23-10-2025,62,Female,Stroke,Neurology,Physiotherapy,D121,14300.0,8,Referred,Pune,Corporate,Pending
+P00228,15-10-2025,16-10-2025,27,Female,Gastritis,Gastroenterology,Medication,D114,15200.0,1,Improved,Nashik,Government,Paid
+P00377,15-10-2025,16-10-2025,51,Female,Pneumonia,Pediatrics,Emergency Treatment,D103,53600.0,1,Recovered,Nagpur,Self-Pay,Pending
+P00055,15-10-2025,16-10-2025,60,Female,Pneumonia,Pediatrics,Medication,D112,11300.0,1,Improved,Nagpur,Self-Pay,Pending
+P00874,16-10-2025,18-10-2025,1,Male,Tumor,Oncology,MRI,D104,13600.0,2,Stable,Mumbai,Self-Pay,Paid
+P00071,16-10-2025,19-10-2025,15,Female,Hypertension,General Medicine,Consultation,D115,2300.0,3,Stable,Kalyan,Private,Paid
+P00127,17-10-2025,25-10-2025,4,Female,Tumor,Oncology,Chemotherapy,D112,57900.0,8,Deceased,Thane,Private,Pending
+P00116,17-10-2025,18-10-2025,50,Female,Severe Infection,Emergency,CT Scan,D124,11000.0,1,Referred,Mumbai,Corporate,Partially Paid
+P00405,17-10-2025,18-10-2025,28,Female,Arthritis,Orthopedics,Medication,D123,12600.0,1,Recovered,Mumbai,Self-Pay,Paid
+P00816,17-10-2025,18-10-2025,50,Female,Diabetes,General Medicine,Medication,D123,11300.0,1,Recovered,Kalyan,Self-Pay,Paid
+P00206,18-10-2025,23-10-2025,50,Male,Severe Infection,Emergency,Medication,D103,11100.0,5,Recovered,Thane,Government,Partially Paid
+P00002,18-10-2025,24-10-2025,78,Male,Cancer,Oncology,Medication,D123,13000.0,6,Improved,Kalyan,Government,Pending
+P00640,18-10-2025,19-10-2025,67,Female,Ovarian Cyst,Gynecology,Ultrasound,D101,7200.0,1,Recovered,Nagpur,Government,Pending
+P00830,18-10-2025,21-10-2025,84,Male,Cancer,Oncology,Medication,D117,14500.0,3,Recovered,Navi Mumbai,Corporate,Paid
+P00262,18-10-2025,20-10-2025,60,Male,Diabetes,General Medicine,Medication,D127,10200.0,2,Improved,Kalyan,Corporate,Paid
+P00607,18-10-2025,22-10-2025,22,Female,Tumor,Oncology,Surgery,D101,65800.0,4,Deceased,Nashik,Corporate,Paid
+P00518,19-10-2025,24-10-2025,65,Male,Injury,Emergency,Physiotherapy,D107,18500.0,5,Improved,Nagpur,Private,Paid
+P00719,19-10-2025,25-10-2025,50,Male,Injury,Emergency,Physiotherapy,D128,23000.0,6,Recovered,Aurangabad,Private,Pending
+P00986,19-10-2025,24-10-2025,77,Male,Heart Attack,Cardiology,Emergency Treatment,D129,35600.0,5,Improved,Thane,Self-Pay,Partially Paid
+P00676,20-10-2025,25-10-2025,77,Male,Injury,Emergency,Surgery,D114,76700.0,5,Recovered,Pune,Self-Pay,Partially Paid
+P00391,20-10-2025,25-10-2025,34,Female,Liver Disease,Gastroenterology,Surgery,D114,92700.0,5,Recovered,Pune,Self-Pay,Partially Paid
+P00367,20-10-2025,23-10-2025,77,Male,Fracture,Orthopedics,X-Ray,D122,4800.0,3,Recovered,Nashik,Private,Partially Paid
+P00903,20-10-2025,22-10-2025,43,Male,Infection,Pediatrics,Consultation,D123,3200.0,2,Improved,Thane,Government,Partially Paid
+P00102,20-10-2025,22-10-2025,8,Female,Diabetes,General Medicine,Monitoring,D128,6900.0,2,Recovered,Kalyan,Private,Pending
+P00773,21-10-2025,22-10-2025,50,Male,Heart Disease,Cardiology,Medication,D120,16000.0,1,Improved,Kalyan,Corporate,Partially Paid
+P00128,21-10-2025,24-10-2025,5,Female,Diabetes,General Medicine,Medication,D127,15600.0,3,Recovered,Nashik,Corporate,Pending
+P00898,21-10-2025,23-10-2025,40,Male,Pneumonia,Pediatrics,CT Scan,D111,10900.0,2,Improved,Nashik,Government,Pending
+P00885,22-10-2025,28-10-2025,27,Male,Tumor,Oncology,Chemotherapy,D124,60000.0,6,Improved,Mumbai,Private,Paid
+P00296,23-10-2025,26-10-2025,48,Female,Heart Attack,Cardiology,Medication,D103,11100.0,3,Recovered,Navi Mumbai,Self-Pay,Partially Paid
+P00709,24-10-2025,27-10-2025,58,Male,Pregnancy Complication,Gynecology,Emergency Treatment,D123,46200.0,3,Recovered,Aurangabad,Corporate,Pending
+P00197,25-10-2025,26-10-2025,31,Male,Epilepsy,Neurology,Medication,D103,11600.0,1,Stable,Navi Mumbai,Corporate,Pending
+P00609,25-10-2025,29-10-2025,11,Female,Diabetes,General Medicine,Medication,D120,12300.0,4,Referred,Mumbai,Self-Pay,Paid
+P00012,25-10-2025,30-10-2025,78,Male,Infection,Pediatrics,Emergency Treatment,D118,37900.0,5,Stable,Mumbai,Self-Pay,Pending
+P00215,25-10-2025,26-10-2025,29,Male,Heart Disease,Cardiology,Medication,D117,14600.0,1,Improved,Nashik,Self-Pay,Paid
+P00371,25-10-2025,26-10-2025,75,Female,Fracture,Orthopedics,X-Ray,D122,4400.0,1,Improved,Kalyan,Government,Pending
+P00166,26-10-2025,27-10-2025,31,Male,Severe Infection,Emergency,CT Scan,D108,7800.0,1,Stable,Thane,Private,Paid
+P00686,27-10-2025,29-10-2025,59,Male,Diabetes,General Medicine,Consultation,D106,2900.0,2,Recovered,Kalyan,Private,Paid
+P00010,27-10-2025,02-11-2025,55,Male,Back Pain,Orthopedics,Physiotherapy,D115,17700.0,6,Improved,Nagpur,Private,Partially Paid
+P00108,27-10-2025,31-10-2025,76,Female,Infection,Pediatrics,Emergency Treatment,D108,48000.0,4,Recovered,Kalyan,Private,Paid
+P00535,28-10-2025,02-11-2025,27,Male,Fracture,Orthopedics,Surgery,D112,80600.0,5,Recovered,Kalyan,Corporate,Partially Paid
+P00171,28-10-2025,29-10-2025,59,Female,Diabetes,General Medicine,Monitoring,D122,5700.0,1,Recovered,Thane,Government,Partially Paid
+P00493,28-10-2025,29-10-2025,20,Female,Accident,Emergency,CT Scan,D106,12200.0,1,Recovered,Mumbai,Self-Pay,Paid
+P00519,28-10-2025,01-11-2025,64,Male,Back Pain,Orthopedics,MRI,D107,11700.0,4,Recovered,Kalyan,Self-Pay,Pending
+P00319,28-10-2025,30-10-2025,9,Female,Acne,Dermatology,Medication,D124,15300.0,2,Improved,Thane,Self-Pay,Partially Paid
+P00451,29-10-2025,04-11-2025,11,Female,Liver Disease,Gastroenterology,Surgery,D118,83800.0,6,Recovered,Kalyan,Private,Paid
+P00111,29-10-2025,01-11-2025,22,Female,Skin Allergy,Dermatology,Consultation,D108,2400.0,3,Stable,Kalyan,Corporate,Partially Paid
+P00221,29-10-2025,30-10-2025,68,Female,Infection,Pediatrics,Consultation,D128,3300.0,1,Recovered,Aurangabad,Government,Partially Paid
+P00011,29-10-2025,30-10-2025,44,Male,Pregnancy Complication,Gynecology,Monitoring,D124,4500.0,1,Improved,Nagpur,Government,Partially Paid
+P00684,29-10-2025,07-11-2025,25,Female,Fracture,Orthopedics,Physiotherapy,D107,14000.0,9,Recovered,Nagpur,Government,Paid
+P00866,29-10-2025,06-11-2025,24,Female,Fracture,Orthopedics,Physiotherapy,D112,16100.0,8,Recovered,Navi Mumbai,Government,Pending
+P00655,29-10-2025,02-11-2025,37,Male,Epilepsy,Neurology,Medication,D122,10100.0,4,Referred,Nashik,Private,Partially Paid
+P00630,29-10-2025,05-11-2025,72,Male,Accident,Emergency,Surgery,D126,78100.0,7,Deceased,Navi Mumbai,Private,Partially Paid
+P00575,29-10-2025,03-11-2025,69,Female,Diabetes,General Medicine,Medication,D114,12000.0,5,Improved,Nagpur,Private,Partially Paid
+P00379,30-10-2025,31-10-2025,74,Female,Pregnancy Complication,Gynecology,Monitoring,D125,6500.0,1,Stable,Navi Mumbai,Corporate,Partially Paid
+P00027,30-10-2025,31-10-2025,20,Female,Epilepsy,Neurology,Consultation,D128,2900.0,1,Improved,Nagpur,Corporate,Pending
+P00373,31-10-2025,02-11-2025,21,Male,Tumor,Oncology,MRI,D123,14300.0,2,Improved,Mumbai,Government,Pending
+P00781,31-10-2025,04-11-2025,38,Female,Pneumonia,Pediatrics,Emergency Treatment,D110,49100.0,4,Recovered,Mumbai,Corporate,Partially Paid
+P00926,31-10-2025,03-11-2025,25,Female,Injury,Emergency,X-Ray,D108,4000.0,3,Recovered,Pune,Private,Paid
+P00570,31-10-2025,01-11-2025,49,Female,Acne,Dermatology,Consultation,D118,3100.0,1,Recovered,Nagpur,Government,Pending
+P00657,01-11-2025,02-11-2025,77,Male,Heart Disease,Cardiology,Angioplasty,D102,88300.0,1,Recovered,Navi Mumbai,Corporate,Partially Paid
+P00717,01-11-2025,07-11-2025,46,Female,Cancer,Oncology,Chemotherapy,D115,61100.0,6,Recovered,Thane,Private,Partially Paid
+P00302,01-11-2025,03-11-2025,53,Male,Dermatitis,Dermatology,Skin Treatment,D107,8900.0,2,Recovered,Navi Mumbai,Corporate,Partially Paid
+P00764,02-11-2025,03-11-2025,27,Male,Heart Disease,Cardiology,ECG,D125,4000.0,1,Recovered,Mumbai,Private,Paid
+P00130,02-11-2025,03-11-2025,82,Female,Heart Disease,Cardiology,Medication,D116,9500.0,1,Stable,Mumbai,Government,Partially Paid
+P00867,02-11-2025,04-11-2025,2,Female,Hypertension,Cardiology,Monitoring,D103,5700.0,2,Recovered,Kalyan,Self-Pay,Partially Paid
+P00873,02-11-2025,05-11-2025,4,Male,Fever,General Medicine,Medication,D123,9800.0,3,Recovered,Kalyan,Government,Paid
+P00858,02-11-2025,03-11-2025,34,Male,Migraine,Neurology,Consultation,D112,2400.0,1,Improved,Thane,Corporate,Paid
+P00731,03-11-2025,09-11-2025,25,Female,Dermatitis,Dermatology,Medication,D123,14400.0,6,Recovered,Aurangabad,Self-Pay,Partially Paid
+P00748,03-11-2025,05-11-2025,63,Male,Back Pain,Orthopedics,Medication,D108,14700.0,2,Recovered,Pune,Self-Pay,Pending
+P00721,03-11-2025,04-11-2025,55,Male,Asthma,Pediatrics,Nebulization,D105,4900.0,1,Recovered,Kalyan,Government,Partially Paid
+P00712,03-11-2025,07-11-2025,22,Male,Ovarian Cyst,Gynecology,Ultrasound,D109,6900.0,4,Recovered,Nashik,Corporate,Pending
+P00762,04-11-2025,14-11-2025,69,Male,Stroke,Neurology,Surgery,D113,74500.0,10,Improved,Aurangabad,Private,Partially Paid
+P00095,04-11-2025,07-11-2025,71,Male,Accident,Emergency,Surgery,D126,66700.0,3,Stable,Mumbai,Self-Pay,Paid
+P00725,04-11-2025,06-11-2025,71,Male,Migraine,Neurology,MRI,D124,17800.0,2,Recovered,Thane,Government,Pending
+P00902,04-11-2025,05-11-2025,60,Female,Dermatitis,Dermatology,Medication,D109,15000.0,1,Recovered,Pune,Self-Pay,Partially Paid
+P00078,04-11-2025,08-11-2025,13,Female,Ovarian Cyst,Gynecology,Ultrasound,D101,4900.0,4,Stable,Nashik,Corporate,Partially Paid
+P00797,05-11-2025,08-11-2025,33,Female,Tumor,Oncology,MRI,D103,17700.0,3,Stable,Aurangabad,Corporate,Partially Paid
+P00774,05-11-2025,09-11-2025,66,Male,Asthma,Pediatrics,Nebulization,D119,5700.0,4,Recovered,Nagpur,Private,Partially Paid
+P00669,05-11-2025,08-11-2025,73,Male,Migraine,Neurology,Consultation,D101,2700.0,3,Stable,Nagpur,Corporate,Paid
+P00030,05-11-2025,09-11-2025,6,Female,Hypertension,Cardiology,Consultation,D104,2600.0,4,Recovered,Navi Mumbai,Corporate,Partially Paid
+P00557,06-11-2025,11-11-2025,15,Male,Stroke,Neurology,Medication,D102,12100.0,5,Recovered,Mumbai,Corporate,Paid
+P00096,06-11-2025,11-11-2025,15,Male,Pregnancy Complication,Gynecology,Surgery,D126,62200.0,5,Recovered,Thane,Self-Pay,Paid
+P00856,06-11-2025,09-11-2025,46,Male,Liver Disease,Gastroenterology,CT Scan,D110,8900.0,3,Stable,Thane,Government,Partially Paid
+P00871,07-11-2025,08-11-2025,68,Male,Skin Allergy,Dermatology,Skin Test,D114,3600.0,1,Stable,Nagpur,Self-Pay,Pending
+P00017,07-11-2025,10-11-2025,32,Female,Severe Infection,Emergency,Medication,D114,9700.0,3,Recovered,Kalyan,Corporate,Partially Paid
+P00528,07-11-2025,08-11-2025,83,Male,Hypertension,General Medicine,Medication,D106,9100.0,1,Improved,Aurangabad,Private,Pending
+P00123,07-11-2025,15-11-2025,21,Male,Injury,Emergency,Surgery,D115,92700.0,8,Recovered,Mumbai,Corporate,Pending
+P00756,07-11-2025,08-11-2025,39,Female,Fever,General Medicine,Medication,D115,13700.0,1,Improved,Aurangabad,Self-Pay,Paid
+P00458,08-11-2025,11-11-2025,43,Female,Epilepsy,Neurology,MRI,D120,16000.0,3,Improved,Mumbai,Private,Partially Paid
+P00330,08-11-2025,11-11-2025,66,Female,Fracture,Orthopedics,X-Ray,D111,5000.0,3,Improved,Thane,Government,Paid
+P00524,09-11-2025,14-11-2025,54,Male,Stroke,Neurology,Physiotherapy,D110,21700.0,5,Recovered,Nashik,Government,Partially Paid
+P00464,09-11-2025,10-11-2025,59,Female,Gastritis,Gastroenterology,Consultation,D130,3100.0,1,Stable,Mumbai,Self-Pay,Partially Paid
+P00899,09-11-2025,14-11-2025,39,Female,Dermatitis,Dermatology,Medication,D113,13500.0,5,Improved,Kalyan,Private,Paid
+P00162,10-11-2025,12-11-2025,42,Female,PCOS,Gynecology,Ultrasound,D106,6400.0,2,Recovered,Aurangabad,Self-Pay,Partially Paid
+P00202,11-11-2025,14-11-2025,45,Male,Epilepsy,Neurology,Consultation,D103,2400.0,3,Recovered,Navi Mumbai,Corporate,Pending
+P00810,11-11-2025,17-11-2025,21,Female,Liver Disease,Gastroenterology,Surgery,D102,71200.0,6,Recovered,Nagpur,Private,Paid
+P00586,11-11-2025,12-11-2025,65,Male,Cancer,Oncology,Medication,D125,12800.0,1,Stable,Nagpur,Corporate,Paid
+P00298,11-11-2025,17-11-2025,38,Female,Heart Attack,Cardiology,Emergency Treatment,D124,58200.0,6,Recovered,Mumbai,Government,Pending
+P00910,11-11-2025,17-11-2025,36,Male,Liver Disease,Gastroenterology,Surgery,D128,100400.0,6,Recovered,Thane,Self-Pay,Partially Paid
+P00742,11-11-2025,12-11-2025,68,Female,Heart Attack,Cardiology,Angioplasty,D108,118900.0,1,Improved,Navi Mumbai,Corporate,Partially Paid
+P00240,11-11-2025,13-11-2025,11,Male,Tumor,Oncology,MRI,D120,16200.0,2,Improved,Nagpur,Private,Partially Paid
+P00821,12-11-2025,15-11-2025,2,Female,Migraine,Neurology,Medication,D123,14400.0,3,Improved,Nagpur,Corporate,Pending
+P00231,12-11-2025,14-11-2025,81,Female,Severe Infection,Emergency,Medication,D113,14700.0,2,Stable,Nagpur,Self-Pay,Pending
+P00223,12-11-2025,14-11-2025,77,Male,Pregnancy Complication,Gynecology,Emergency Treatment,D130,46900.0,2,Improved,Nashik,Government,Pending
+P00887,12-11-2025,21-11-2025,55,Female,Heart Attack,Cardiology,Emergency Treatment,D125,57500.0,9,Recovered,Mumbai,Self-Pay,Pending
+P00131,13-11-2025,16-11-2025,79,Female,Pneumonia,Pediatrics,Medication,D112,13800.0,3,Recovered,Pune,Private,Pending
+P00687,13-11-2025,20-11-2025,69,Female,Arthritis,Orthopedics,Physiotherapy,D130,18100.0,7,Improved,Mumbai,Government,Partially Paid
+P00151,13-11-2025,15-11-2025,45,Female,Fever,General Medicine,Consultation,D115,3300.0,2,Recovered,Pune,Self-Pay,Pending
+P00469,13-11-2025,14-11-2025,17,Male,Epilepsy,Neurology,Consultation,D101,3500.0,1,Improved,Nagpur,Private,Partially Paid
+P00406,14-11-2025,16-11-2025,10,Female,Hypertension,Cardiology,Consultation,D109,2600.0,2,Stable,Kalyan,Private,Paid
+P00075,14-11-2025,17-11-2025,66,Male,Skin Allergy,Dermatology,Skin Test,D130,4300.0,3,Recovered,Nagpur,Private,Pending
+P00165,14-11-2025,17-11-2025,11,Female,Asthma,Pediatrics,Consultation,D127,3600.0,3,Recovered,Nagpur,Self-Pay,Paid
+P00636,14-11-2025,15-11-2025,9,Male,Heart Attack,Cardiology,Medication,D125,11400.0,1,Recovered,Nashik,Corporate,Paid
+P00494,14-11-2025,18-11-2025,53,Female,Accident,Emergency,Emergency Treatment,D121,40200.0,4,Recovered,Nashik,Government,Partially Paid
+P00540,15-11-2025,16-11-2025,21,Female,Hypertension,General Medicine,Monitoring,D130,4900.0,1,Recovered,Aurangabad,Government,Pending
+P00815,16-11-2025,22-11-2025,50,Female,Fracture,Orthopedics,Surgery,D119,77800.0,6,Recovered,Kalyan,Self-Pay,Paid
+P00250,16-11-2025,17-11-2025,84,Female,Arthritis,Orthopedics,Consultation,D130,2700.0,1,Recovered,Navi Mumbai,Self-Pay,Paid
+P00789,18-11-2025,25-11-2025,36,Male,PCOS,Gynecology,Medication,D107,10800.0,7,Stable,Aurangabad,Private,Partially Paid
+P00147,18-11-2025,19-11-2025,42,Male,Asthma,Pediatrics,Medication,D109,15400.0,1,Stable,Thane,Self-Pay,Paid
+P00988,18-11-2025,23-11-2025,36,Male,Epilepsy,Neurology,Medication,D126,10900.0,5,Recovered,Kalyan,Self-Pay,Partially Paid
+P00031,19-11-2025,26-11-2025,53,Male,Cancer,Oncology,Chemotherapy,D122,79300.0,7,Recovered,Thane,Self-Pay,Paid
+P00079,19-11-2025,24-11-2025,44,Female,Stroke,Neurology,Physiotherapy,D113,22700.0,5,Stable,Navi Mumbai,Corporate,Partially Paid
+P00400,19-11-2025,20-11-2025,67,Male,Asthma,Pediatrics,Medication,D101,11500.0,1,Recovered,Aurangabad,Corporate,Pending
+P00414,19-11-2025,23-11-2025,70,Female,Ulcer,Gastroenterology,Endoscopy,D117,12300.0,4,Stable,Kalyan,Government,Paid
+P00107,20-11-2025,21-11-2025,11,Female,Accident,Emergency,CT Scan,D107,11100.0,1,Recovered,Pune,Self-Pay,Pending
+P00572,20-11-2025,21-11-2025,34,Female,PCOS,Gynecology,Consultation,D122,3300.0,1,Recovered,Navi Mumbai,Self-Pay,Pending
+P00249,20-11-2025,21-11-2025,15,Male,Asthma,Pediatrics,Nebulization,D102,6300.0,1,Recovered,Aurangabad,Self-Pay,Pending
+P00357,21-11-2025,23-11-2025,85,Male,Back Pain,Orthopedics,Medication,D116,11600.0,2,Recovered,Thane,Private,Pending
+P00800,21-11-2025,22-11-2025,2,Female,Accident,Emergency,CT Scan,D109,10500.0,1,Improved,Nagpur,Government,Pending
+P00408,21-11-2025,24-11-2025,67,Male,Heart Attack,Cardiology,Medication,D107,10800.0,3,Improved,Navi Mumbai,Private,Partially Paid
+P00823,22-11-2025,25-11-2025,59,Female,Hypertension,Cardiology,Consultation,D106,3500.0,3,Recovered,Nagpur,Private,Partially Paid
+P00917,22-11-2025,23-11-2025,12,Male,Dermatitis,Dermatology,Medication,D129,10500.0,1,Stable,Mumbai,Self-Pay,Pending
+P00333,22-11-2025,23-11-2025,19,Male,Infection,Pediatrics,Consultation,D127,3600.0,1,Recovered,Aurangabad,Private,Partially Paid
+P00326,24-11-2025,28-11-2025,53,Male,Gastritis,Gastroenterology,Consultation,D104,2700.0,4,Recovered,Kalyan,Government,Pending
+P00842,24-11-2025,28-11-2025,62,Female,Tumor,Oncology,Chemotherapy,D123,69600.0,4,Stable,Kalyan,Self-Pay,Partially Paid
+P00051,25-11-2025,27-11-2025,15,Male,Severe Infection,Emergency,CT Scan,D122,7700.0,2,Recovered,Kalyan,Corporate,Partially Paid
+P00081,25-11-2025,27-11-2025,42,Male,Asthma,Pediatrics,Medication,D119,10000.0,2,Improved,Nashik,Government,Paid
+P00716,25-11-2025,28-11-2025,14,Female,Hypertension,Cardiology,Monitoring,D120,5700.0,3,Improved,Thane,Corporate,Pending
+P00603,26-11-2025,02-12-2025,60,Male,Pregnancy Complication,Gynecology,Emergency Treatment,D111,45400.0,6,Recovered,Mumbai,Government,Pending
+P00194,26-11-2025,29-11-2025,70,Female,Diabetes,General Medicine,Medication,D121,10300.0,3,Stable,Mumbai,Private,Paid
+P00957,26-11-2025,27-11-2025,14,Male,Pneumonia,Pediatrics,CT Scan,D125,8700.0,1,Stable,Nashik,Private,Partially Paid
+P00304,26-11-2025,30-11-2025,12,Male,Accident,Emergency,Emergency Treatment,D113,50300.0,4,Improved,Kalyan,Corporate,Pending
+P00747,27-11-2025,29-11-2025,4,Male,Migraine,Neurology,Consultation,D124,2900.0,2,Recovered,Nagpur,Corporate,Partially Paid
+P00280,27-11-2025,28-11-2025,15,Female,Asthma,Pediatrics,Consultation,D129,3700.0,1,Recovered,Nagpur,Private,Partially Paid
+P00854,28-11-2025,29-11-2025,21,Female,Acne,Dermatology,Skin Treatment,D105,6200.0,1,Improved,Pune,Corporate,Partially Paid
+P00284,28-11-2025,06-12-2025,17,Male,Arthritis,Orthopedics,Physiotherapy,D114,18100.0,8,Deceased,Thane,Government,Partially Paid
+P01000,28-11-2025,29-11-2025,78,Male,Gastritis,Gastroenterology,Endoscopy,D121,14000.0,1,Recovered,Mumbai,Self-Pay,Pending
+P00772,29-11-2025,30-11-2025,76,Female,Ovarian Cyst,Gynecology,Ultrasound,D119,4800.0,1,Recovered,Nagpur,Self-Pay,Partially Paid
+P00539,29-11-2025,09-12-2025,15,Male,Arthritis,Orthopedics,Physiotherapy,D107,18300.0,10,Recovered,Mumbai,Self-Pay,Pending
+P00893,29-11-2025,30-11-2025,43,Female,Infection,Pediatrics,Consultation,D119,2700.0,1,Recovered,Navi Mumbai,Private,Pending
+P00097,29-11-2025,01-12-2025,54,Male,Asthma,Pediatrics,Medication,D104,14600.0,2,Improved,Aurangabad,Government,Partially Paid
+P00726,30-11-2025,04-12-2025,37,Female,Accident,Emergency,Emergency Treatment,D128,59900.0,4,Recovered,Aurangabad,Private,Pending
+P00807,30-11-2025,02-12-2025,25,Male,Dermatitis,Dermatology,Consultation,D113,3100.0,2,Improved,Pune,Government,Partially Paid
+P00054,30-11-2025,02-12-2025,79,Female,Ovarian Cyst,Gynecology,Ultrasound,D119,6200.0,2,Stable,Nagpur,Self-Pay,Paid
+P00713,01-12-2025,03-12-2025,69,Male,Cancer,Oncology,Medication,D122,13600.0,2,Improved,Pune,Corporate,Partially Paid
+P00181,01-12-2025,04-12-2025,17,Male,Pregnancy Complication,Gynecology,Monitoring,D124,8000.0,3,Recovered,Kalyan,Corporate,Paid
+P00806,02-12-2025,06-12-2025,25,Female,Gastritis,Gastroenterology,Medication,D110,15800.0,4,Recovered,Mumbai,Self-Pay,Paid
+P00596,03-12-2025,08-12-2025,29,Male,Acne,Dermatology,Skin Treatment,D121,9200.0,5,Stable,Thane,Private,Pending
+P00134,03-12-2025,04-12-2025,59,Male,Arthritis,Orthopedics,Consultation,D107,2800.0,1,Recovered,Mumbai,Self-Pay,Pending
+P00501,04-12-2025,05-12-2025,85,Male,Pneumonia,Pediatrics,Emergency Treatment,D129,41200.0,1,Recovered,Navi Mumbai,Self-Pay,Paid
+P00614,05-12-2025,07-12-2025,12,Male,Dermatitis,Dermatology,Skin Treatment,D122,7400.0,2,Referred,Thane,Government,Pending
+P00485,06-12-2025,09-12-2025,54,Male,Pregnancy Complication,Gynecology,Emergency Treatment,D121,37100.0,3,Recovered,Mumbai,Government,Partially Paid
+P00268,06-12-2025,10-12-2025,23,Female,Liver Disease,Gastroenterology,Surgery,D120,58000.0,4,Recovered,Thane,Private,Partially Paid
+P00077,06-12-2025,12-12-2025,53,Male,Tumor,Oncology,Surgery,D122,97400.0,6,Recovered,Nashik,Corporate,Paid
+P00883,06-12-2025,07-12-2025,36,Female,Skin Allergy,Dermatology,Skin Test,D104,2700.0,1,Recovered,Thane,Private,Paid
+P00086,07-12-2025,11-12-2025,85,Male,Injury,Emergency,Physiotherapy,D121,20300.0,4,Stable,Mumbai,Self-Pay,Pending
+P00508,07-12-2025,08-12-2025,14,Female,Infection,Pediatrics,Consultation,D115,3100.0,1,Stable,Thane,Government,Paid
+P00327,07-12-2025,08-12-2025,6,Male,Diabetes,General Medicine,Consultation,D105,3400.0,1,Referred,Aurangabad,Private,Partially Paid
+P00509,08-12-2025,09-12-2025,31,Female,Heart Attack,Cardiology,Medication,D127,13600.0,1,Improved,Aurangabad,Private,Paid
+P00420,08-12-2025,14-12-2025,73,Male,Ovarian Cyst,Gynecology,Surgery,D124,81400.0,6,Improved,Pune,Self-Pay,Partially Paid
+P00412,08-12-2025,13-12-2025,46,Male,Heart Attack,Cardiology,Emergency Treatment,D123,40500.0,5,Recovered,Aurangabad,Self-Pay,Partially Paid
+P00005,08-12-2025,13-12-2025,30,Female,Migraine,Neurology,MRI,D115,19000.0,5,Recovered,Navi Mumbai,Government,Pending
+P00122,08-12-2025,12-12-2025,10,Female,Cancer,Oncology,Chemotherapy,D125,81700.0,4,Recovered,Mumbai,Self-Pay,Partially Paid
+P00291,08-12-2025,15-12-2025,5,Female,Cancer,Oncology,Chemotherapy,D115,56500.0,7,Recovered,Kalyan,Private,Partially Paid
+P00193,10-12-2025,11-12-2025,73,Male,Diabetes,General Medicine,Consultation,D127,3500.0,1,Recovered,Aurangabad,Corporate,Pending
+P00681,10-12-2025,14-12-2025,44,Male,Cancer,Oncology,Chemotherapy,D111,87000.0,4,Improved,Navi Mumbai,Self-Pay,Pending
+P00702,11-12-2025,19-12-2025,27,Male,Stroke,Neurology,Physiotherapy,D115,16600.0,8,Improved,Mumbai,Self-Pay,Partially Paid
+P00157,11-12-2025,15-12-2025,65,Male,Severe Infection,Emergency,Medication,D115,11400.0,4,Recovered,Nashik,Government,Pending
+P00261,11-12-2025,12-12-2025,81,Male,Acne,Dermatology,Skin Treatment,D103,8700.0,1,Recovered,Thane,Corporate,Paid
+P00052,11-12-2025,12-12-2025,81,Male,Epilepsy,Neurology,Consultation,D128,2400.0,1,Stable,Pune,Private,Pending
+P00963,11-12-2025,12-12-2025,28,Male,Epilepsy,Neurology,Consultation,D102,3400.0,1,Improved,Kalyan,Self-Pay,Partially Paid
+P00084,11-12-2025,16-12-2025,31,Female,Acne,Dermatology,Medication,D123,13100.0,5,Improved,Nagpur,Private,Partially Paid
+P00982,11-12-2025,12-12-2025,55,Female,Gastritis,Gastroenterology,Medication,D116,10200.0,1,Stable,Nashik,Corporate,Pending
+P00597,11-12-2025,12-12-2025,7,Female,Infection,Pediatrics,Medication,D106,10100.0,1,Referred,Pune,Private,Partially Paid
+P00715,12-12-2025,13-12-2025,4,Male,Migraine,Neurology,Consultation,D129,3500.0,1,Recovered,Pune,Government,Partially Paid
+P00050,12-12-2025,16-12-2025,31,Male,Heart Attack,Cardiology,Angioplasty,D107,93100.0,4,Recovered,Aurangabad,Self-Pay,Pending
+P00168,12-12-2025,16-12-2025,83,Male,Pneumonia,Pediatrics,Emergency Treatment,D119,58300.0,4,Recovered,Thane,Private,Paid
+P00376,13-12-2025,17-12-2025,5,Male,Pregnancy Complication,Gynecology,Surgery,D112,83900.0,4,Improved,Thane,Private,Paid
+P00468,13-12-2025,18-12-2025,4,Female,Stroke,Neurology,Medication,D111,15500.0,5,Recovered,Aurangabad,Self-Pay,Pending
+P00691,13-12-2025,14-12-2025,28,Female,Gastritis,Gastroenterology,Endoscopy,D109,10100.0,1,Stable,Pune,Government,Paid
+P00705,13-12-2025,14-12-2025,9,Female,Heart Disease,Cardiology,Medication,D116,11400.0,1,Improved,Aurangabad,Corporate,Partially Paid
+P00383,13-12-2025,22-12-2025,14,Male,Tumor,Oncology,Surgery,D125,86100.0,9,Improved,Mumbai,Corporate,Pending
+P00109,14-12-2025,16-12-2025,33,Female,Asthma,Pediatrics,Medication,D113,14400.0,2,Recovered,Thane,Self-Pay,Paid
+P00769,14-12-2025,15-12-2025,35,Male,Epilepsy,Neurology,Consultation,D106,3400.0,1,Improved,Kalyan,Government,Pending
+P00931,14-12-2025,24-12-2025,40,Male,Back Pain,Orthopedics,Physiotherapy,D108,22000.0,10,Recovered,Aurangabad,Corporate,Paid
+P00188,14-12-2025,15-12-2025,58,Female,Fever,General Medicine,Medication,D107,9700.0,1,Improved,Mumbai,Self-Pay,Pending
+P00229,15-12-2025,18-12-2025,69,Female,Heart Attack,Cardiology,Emergency Treatment,D119,60200.0,3,Recovered,Nagpur,Private,Paid
+P00864,15-12-2025,19-12-2025,55,Female,Ulcer,Gastroenterology,Endoscopy,D120,14900.0,4,Improved,Kalyan,Corporate,Paid
+P00929,15-12-2025,16-12-2025,46,Male,Liver Disease,Gastroenterology,CT Scan,D128,9700.0,1,Improved,Thane,Self-Pay,Pending
+P00217,15-12-2025,16-12-2025,61,Male,Pregnancy Complication,Gynecology,Emergency Treatment,D126,42400.0,1,Recovered,Pune,Private,Pending
+P00418,16-12-2025,17-12-2025,82,Male,Gastritis,Gastroenterology,Endoscopy,D129,11600.0,1,Improved,Kalyan,Self-Pay,Partially Paid
+P00201,16-12-2025,17-12-2025,51,Male,Accident,Emergency,CT Scan,D122,10900.0,1,Stable,Navi Mumbai,Corporate,Partially Paid
+P00471,17-12-2025,18-12-2025,37,Female,Diabetes,General Medicine,Medication,D106,13800.0,1,Recovered,Nagpur,Private,Paid
+P00349,17-12-2025,18-12-2025,83,Male,Diabetes,General Medicine,Consultation,D106,3800.0,1,Recovered,Mumbai,Corporate,Partially Paid
+P00757,17-12-2025,18-12-2025,84,Male,Cancer,Oncology,Medication,D128,9700.0,1,Stable,Nashik,Corporate,Pending
+P00971,17-12-2025,20-12-2025,21,Female,Fever,General Medicine,Medication,D111,14800.0,3,Stable,Kalyan,Government,Partially Paid
+P00754,17-12-2025,21-12-2025,63,Female,Cancer,Oncology,Chemotherapy,D130,60400.0,4,Stable,Nashik,Private,Partially Paid
+P00190,18-12-2025,19-12-2025,62,Male,Cancer,Oncology,Medication,D113,14000.0,1,Improved,Thane,Self-Pay,Pending
+P00868,18-12-2025,23-12-2025,72,Female,PCOS,Gynecology,Medication,D126,14200.0,5,Referred,Pune,Corporate,Partially Paid
+P00619,18-12-2025,19-12-2025,78,Female,Arthritis,Orthopedics,Consultation,D104,3200.0,1,Recovered,Mumbai,Government,Partially Paid
+P00601,18-12-2025,22-12-2025,77,Female,Dermatitis,Dermatology,Skin Treatment,D116,5500.0,4,Referred,Navi Mumbai,Private,Paid
+P00239,19-12-2025,21-12-2025,57,Male,Fracture,Orthopedics,X-Ray,D113,4800.0,2,Improved,Navi Mumbai,Corporate,Pending
+P00220,19-12-2025,22-12-2025,9,Male,Tumor,Oncology,MRI,D112,18400.0,3,Improved,Navi Mumbai,Government,Pending
+P00683,19-12-2025,21-12-2025,43,Female,Tumor,Oncology,MRI,D103,20200.0,2,Recovered,Navi Mumbai,Private,Partially Paid
+P00840,19-12-2025,24-12-2025,55,Female,Heart Disease,Cardiology,Angioplasty,D105,81100.0,5,Recovered,Pune,Self-Pay,Pending
+P00409,21-12-2025,26-12-2025,56,Female,Migraine,Neurology,MRI,D108,16500.0,5,Recovered,Mumbai,Private,Partially Paid
+P00402,22-12-2025,23-12-2025,81,Male,Asthma,Pediatrics,Consultation,D120,3200.0,1,Stable,Nagpur,Self-Pay,Partially Paid
+P00365,22-12-2025,23-12-2025,75,Male,Dermatitis,Dermatology,Medication,D130,10200.0,1,Improved,Aurangabad,Private,Paid
+P00299,23-12-2025,27-12-2025,46,Female,Ovarian Cyst,Gynecology,Ultrasound,D104,7700.0,4,Recovered,Aurangabad,Government,Partially Paid
+P00340,23-12-2025,28-12-2025,47,Female,Tumor,Oncology,Chemotherapy,D117,57300.0,5,Improved,Aurangabad,Private,Paid
+P00144,24-12-2025,26-12-2025,31,Female,Migraine,Neurology,Medication,D112,9200.0,2,Improved,Aurangabad,Government,Partially Paid
+P00308,24-12-2025,28-12-2025,3,Male,Arthritis,Orthopedics,Consultation,D126,2500.0,4,Improved,Mumbai,Corporate,Partially Paid
+P00671,24-12-2025,25-12-2025,69,Female,Hypertension,Cardiology,Consultation,D126,2900.0,1,Stable,Mumbai,Government,Partially Paid
+P00506,25-12-2025,26-12-2025,62,Male,Hypertension,Cardiology,Monitoring,D112,6500.0,1,Referred,Navi Mumbai,Self-Pay,Pending
+P00562,26-12-2025,28-12-2025,16,Female,Skin Allergy,Dermatology,Consultation,D125,2400.0,2,Recovered,Navi Mumbai,Self-Pay,Partially Paid
+P00941,26-12-2025,28-12-2025,33,Male,Heart Attack,Cardiology,Emergency Treatment,D120,43300.0,2,Improved,Thane,Self-Pay,Paid
+P00697,26-12-2025,01-01-2026,67,Female,Tumor,Oncology,Surgery,D107,91900.0,6,Recovered,Kalyan,Corporate,Paid
+P00362,27-12-2025,31-12-2025,15,Female,Acne,Dermatology,Skin Treatment,D119,8100.0,4,Recovered,Nashik,Corporate,Paid
+P00444,28-12-2025,05-01-2026,11,Female,Cancer,Oncology,Surgery,D116,62300.0,8,Stable,Navi Mumbai,Government,Pending
+P00090,29-12-2025,30-12-2025,72,Female,Gastritis,Gastroenterology,Consultation,D103,3900.0,1,Recovered,Aurangabad,Self-Pay,Partially Paid
+P00066,29-12-2025,30-12-2025,85,Male,Infection,Pediatrics,Emergency Treatment,D121,45200.0,1,Improved,Nashik,Self-Pay,Paid
+P00629,30-12-2025,04-01-2026,46,Female,Cancer,Oncology,Chemotherapy,D102,81000.0,5,Stable,Pune,Self-Pay,Pending
+P00023,30-12-2025,31-12-2025,32,Male,Skin Allergy,Dermatology,Skin Test,D130,3900.0,1,Improved,Nagpur,Government,Partially Paid
+P00587,31-12-2025,05-01-2026,43,Female,Accident,Emergency,Emergency Treatment,D104,59000.0,5,Recovered,Nashik,Government,Pending
+P00777,01-01-2026,02-01-2026,8,Male,Migraine,Neurology,MRI,D114,15700.0,1,Stable,Nashik,Corporate,Pending
+P00947,03-01-2026,04-01-2026,41,Male,Diabetes,General Medicine,Consultation,D103,4000.0,1,Recovered,Navi Mumbai,Private,Pending
+P00515,03-01-2026,10-01-2026,13,Female,Accident,Emergency,Surgery,D106,78200.0,7,Recovered,Pune,Self-Pay,Pending
+P00363,03-01-2026,06-01-2026,76,Male,Heart Disease,Cardiology,ECG,D106,6400.0,3,Recovered,Nagpur,Government,Partially Paid
+P00041,03-01-2026,06-01-2026,1,Male,Back Pain,Orthopedics,Medication,D115,14800.0,3,Improved,Mumbai,Government,Paid
+P00161,03-01-2026,07-01-2026,15,Male,Heart Attack,Cardiology,Medication,D114,10100.0,4,Improved,Aurangabad,Private,Partially Paid
+P00836,04-01-2026,05-01-2026,14,Female,PCOS,Gynecology,Medication,D128,11700.0,1,Improved,Pune,Government,Pending
+P00150,04-01-2026,05-01-2026,10,Male,Acne,Dermatology,Consultation,D115,2500.0,1,Recovered,Thane,Self-Pay,Partially Paid
+P00118,05-01-2026,11-01-2026,67,Male,Ulcer,Gastroenterology,Surgery,D113,72600.0,6,Stable,Kalyan,Self-Pay,Partially Paid
+P00608,05-01-2026,06-01-2026,43,Male,Liver Disease,Gastroenterology,Medication,D104,11000.0,1,Deceased,Kalyan,Self-Pay,Partially Paid
+P00009,05-01-2026,08-01-2026,75,Female,Ovarian Cyst,Gynecology,Ultrasound,D117,5300.0,3,Deceased,Aurangabad,Private,Paid
+P00643,05-01-2026,08-01-2026,75,Male,Stroke,Neurology,Medication,D127,9700.0,3,Improved,Kalyan,Private,Paid
+P00208,05-01-2026,07-01-2026,26,Female,Liver Disease,Gastroenterology,CT Scan,D113,8100.0,2,Recovered,Navi Mumbai,Corporate,Pending
+P00182,05-01-2026,06-01-2026,36,Male,Ulcer,Gastroenterology,Medication,D104,15700.0,1,Improved,Mumbai,Corporate,Partially Paid
+P00152,05-01-2026,14-01-2026,38,Female,Arthritis,Orthopedics,Physiotherapy,D128,22800.0,9,Recovered,Nashik,Self-Pay,Partially Paid
+P00972,06-01-2026,09-01-2026,68,Male,Heart Disease,Cardiology,Angioplasty,D102,94600.0,3,Stable,Nashik,Self-Pay,Pending
+P00407,06-01-2026,07-01-2026,5,Male,Acne,Dermatology,Medication,D116,12800.0,1,Deceased,Kalyan,Self-Pay,Pending
+P00707,06-01-2026,07-01-2026,56,Female,Back Pain,Orthopedics,Medication,D123,14000.0,1,Recovered,Mumbai,Government,Paid
+P00390,07-01-2026,14-01-2026,51,Male,Ovarian Cyst,Gynecology,Surgery,D127,87300.0,7,Recovered,Nagpur,Corporate,Partially Paid
+P00345,07-01-2026,08-01-2026,30,Female,PCOS,Gynecology,Ultrasound,D113,6000.0,1,Recovered,Pune,Private,Partially Paid
+P00784,07-01-2026,14-01-2026,48,Female,Tumor,Oncology,Chemotherapy,D118,63000.0,7,Stable,Nagpur,Private,Pending
+P00558,08-01-2026,11-01-2026,2,Male,Heart Disease,Cardiology,Medication,D107,14600.0,3,Stable,Thane,Government,Partially Paid
+P00602,08-01-2026,11-01-2026,39,Female,Ovarian Cyst,Gynecology,Ultrasound,D129,6900.0,3,Recovered,Mumbai,Government,Pending
+P00498,09-01-2026,10-01-2026,31,Male,Injury,Emergency,X-Ray,D106,4200.0,1,Improved,Navi Mumbai,Private,Partially Paid
+P00768,09-01-2026,10-01-2026,21,Female,Pneumonia,Pediatrics,CT Scan,D122,10200.0,1,Referred,Kalyan,Government,Partially Paid
+P00309,09-01-2026,14-01-2026,77,Male,Ovarian Cyst,Gynecology,Surgery,D114,57100.0,5,Improved,Aurangabad,Corporate,Paid
+P00088,10-01-2026,16-01-2026,44,Male,Ulcer,Gastroenterology,Surgery,D125,77300.0,6,Recovered,Thane,Corporate,Partially Paid
+P00834,10-01-2026,14-01-2026,16,Female,Liver Disease,Gastroenterology,Medication,D113,9300.0,4,Stable,Kalyan,Government,Pending
+P00476,11-01-2026,14-01-2026,43,Female,Hypertension,General Medicine,Medication,D116,12300.0,3,Recovered,Pune,Self-Pay,Pending
+P00285,11-01-2026,12-01-2026,12,Female,Fever,General Medicine,Medication,D130,15200.0,1,Improved,Mumbai,Corporate,Paid
+P00504,11-01-2026,13-01-2026,10,Female,Migraine,Neurology,Medication,D116,14600.0,2,Recovered,Nashik,Private,Paid
+P00387,11-01-2026,12-01-2026,31,Female,Back Pain,Orthopedics,MRI,D107,14500.0,1,Improved,Kalyan,Self-Pay,Pending
+P00300,11-01-2026,12-01-2026,43,Male,PCOS,Gynecology,Ultrasound,D128,5300.0,1,Recovered,Nagpur,Corporate,Pending
+P00293,11-01-2026,19-01-2026,50,Male,Stroke,Neurology,Surgery,D121,99700.0,8,Stable,Thane,Government,Pending
+P00355,12-01-2026,13-01-2026,84,Male,Ovarian Cyst,Gynecology,Ultrasound,D110,7300.0,1,Improved,Nashik,Corporate,Partially Paid
+P00142,12-01-2026,13-01-2026,37,Female,Gastritis,Gastroenterology,Consultation,D103,2600.0,1,Recovered,Aurangabad,Government,Partially Paid
+P00663,12-01-2026,13-01-2026,85,Female,Ulcer,Gastroenterology,Medication,D123,13300.0,1,Recovered,Nashik,Private,Partially Paid
+P00034,12-01-2026,13-01-2026,5,Male,Back Pain,Orthopedics,MRI,D126,16600.0,1,Recovered,Navi Mumbai,Corporate,Partially Paid
+P00855,12-01-2026,14-01-2026,27,Male,PCOS,Gynecology,Consultation,D101,3400.0,2,Improved,Pune,Corporate,Paid
+P00685,13-01-2026,15-01-2026,32,Male,Fracture,Orthopedics,X-Ray,D127,3600.0,2,Recovered,Nashik,Corporate,Partially Paid
+P00600,13-01-2026,19-01-2026,48,Female,Tumor,Oncology,Surgery,D128,60100.0,6,Recovered,Navi Mumbai,Corporate,Partially Paid
+P00877,14-01-2026,15-01-2026,46,Male,Infection,Pediatrics,Medication,D116,10500.0,1,Recovered,Mumbai,Government,Paid
+P00287,14-01-2026,17-01-2026,74,Female,Dermatitis,Dermatology,Skin Treatment,D123,5900.0,3,Improved,Kalyan,Private,Pending
+P00875,14-01-2026,15-01-2026,49,Female,Fever,General Medicine,Blood Test,D111,2800.0,1,Recovered,Nashik,Corporate,Partially Paid
+P00578,14-01-2026,17-01-2026,52,Male,Hypertension,Cardiology,Monitoring,D123,6700.0,3,Referred,Pune,Self-Pay,Pending
+P00137,15-01-2026,16-01-2026,11,Female,Epilepsy,Neurology,MRI,D103,16200.0,1,Recovered,Navi Mumbai,Self-Pay,Pending
+P00431,15-01-2026,18-01-2026,74,Male,Acne,Dermatology,Skin Treatment,D112,6800.0,3,Recovered,Mumbai,Self-Pay,Paid
+P00631,15-01-2026,16-01-2026,78,Male,Back Pain,Orthopedics,Medication,D127,12200.0,1,Recovered,Pune,Private,Partially Paid
+P00924,17-01-2026,22-01-2026,64,Male,Heart Disease,Cardiology,Angioplasty,D110,102600.0,5,Recovered,Thane,Private,Paid
+P00897,17-01-2026,24-01-2026,56,Male,Back Pain,Orthopedics,Physiotherapy,D122,23600.0,7,Recovered,Kalyan,Corporate,Pending
+P00105,18-01-2026,23-01-2026,1,Male,Pneumonia,Pediatrics,Emergency Treatment,D121,44600.0,5,Recovered,Mumbai,Private,Partially Paid
+P00248,18-01-2026,21-01-2026,74,Male,PCOS,Gynecology,Consultation,D102,3100.0,3,Improved,Aurangabad,Government,Pending
+P00708,19-01-2026,22-01-2026,9,Male,Pregnancy Complication,Gynecology,Monitoring,D125,7800.0,3,Recovered,Pune,Self-Pay,Paid
+P00226,19-01-2026,27-01-2026,59,Female,Tumor,Oncology,Surgery,D104,81000.0,8,Recovered,Nagpur,Self-Pay,Partially Paid
+P00937,19-01-2026,22-01-2026,33,Male,Hypertension,General Medicine,Monitoring,D106,5700.0,3,Recovered,Aurangabad,Corporate,Paid
+P00550,20-01-2026,23-01-2026,47,Female,Gastritis,Gastroenterology,Consultation,D121,3300.0,3,Stable,Aurangabad,Private,Pending
+P00795,20-01-2026,25-01-2026,14,Male,Tumor,Oncology,Surgery,D129,58100.0,5,Referred,Thane,Government,Partially Paid
+P00094,20-01-2026,26-01-2026,12,Male,Cancer,Oncology,Surgery,D101,85100.0,6,Improved,Mumbai,Self-Pay,Paid
+P00378,20-01-2026,25-01-2026,52,Male,Cancer,Oncology,Surgery,D104,68000.0,5,Recovered,Pune,Self-Pay,Pending
+P00439,20-01-2026,28-01-2026,50,Male,Heart Attack,Cardiology,Emergency Treatment,D113,39800.0,8,Recovered,Nashik,Private,Partially Paid
+P00960,21-01-2026,23-01-2026,29,Male,Stroke,Neurology,Surgery,D109,71000.0,2,Improved,Aurangabad,Private,Partially Paid
+P00880,21-01-2026,22-01-2026,40,Male,Skin Allergy,Dermatology,Skin Test,D124,2900.0,1,Stable,Pune,Government,Paid
+P00455,21-01-2026,23-01-2026,27,Male,Severe Infection,Emergency,CT Scan,D102,9600.0,2,Recovered,Nagpur,Self-Pay,Paid
+P00956,21-01-2026,25-01-2026,13,Female,Severe Infection,Emergency,Medication,D109,11100.0,4,Recovered,Aurangabad,Corporate,Paid
+P00718,21-01-2026,29-01-2026,9,Male,Injury,Emergency,Surgery,D116,74700.0,8,Stable,Pune,Government,Pending
+P00019,21-01-2026,31-01-2026,57,Male,Gastritis,Gastroenterology,Medication,D130,15000.0,10,Referred,Thane,Government,Pending
+P00604,22-01-2026,24-01-2026,34,Female,Hypertension,General Medicine,Consultation,D106,3200.0,2,Recovered,Navi Mumbai,Corporate,Paid
+P00696,23-01-2026,24-01-2026,75,Male,Hypertension,General Medicine,Consultation,D125,3100.0,1,Improved,Nashik,Corporate,Paid
+P00826,23-01-2026,29-01-2026,9,Male,Back Pain,Orthopedics,Physiotherapy,D110,19900.0,6,Improved,Thane,Government,Partially Paid
+P00342,23-01-2026,26-01-2026,66,Female,Heart Attack,Cardiology,Emergency Treatment,D121,46900.0,3,Recovered,Thane,Self-Pay,Partially Paid
+P00729,24-01-2026,25-01-2026,62,Male,Dermatitis,Dermatology,Consultation,D101,2600.0,1,Stable,Mumbai,Self-Pay,Pending
+P00170,24-01-2026,25-01-2026,68,Female,Liver Disease,Gastroenterology,CT Scan,D117,12800.0,1,Recovered,Aurangabad,Self-Pay,Paid
+P00546,26-01-2026,29-01-2026,54,Male,Back Pain,Orthopedics,MRI,D105,18800.0,3,Improved,Thane,Self-Pay,Pending
+P00723,26-01-2026,28-01-2026,43,Female,Heart Disease,Cardiology,ECG,D108,6500.0,2,Improved,Thane,Corporate,Partially Paid
+P00224,26-01-2026,28-01-2026,58,Male,Arthritis,Orthopedics,Medication,D116,15200.0,2,Referred,Nashik,Government,Pending
+P00908,27-01-2026,02-02-2026,76,Female,Infection,Pediatrics,Medication,D113,11600.0,6,Recovered,Pune,Corporate,Pending
+P00976,28-01-2026,01-02-2026,53,Female,Skin Allergy,Dermatology,Medication,D118,12500.0,4,Stable,Thane,Corporate,Paid
+P00633,28-01-2026,02-02-2026,13,Male,Liver Disease,Gastroenterology,Surgery,D115,62400.0,5,Stable,Kalyan,Private,Paid
+P00688,29-01-2026,03-02-2026,7,Female,Fracture,Orthopedics,Surgery,D119,95500.0,5,Stable,Aurangabad,Government,Partially Paid
+P00483,29-01-2026,30-01-2026,7,Male,Hypertension,Cardiology,Monitoring,D128,5800.0,1,Stable,Mumbai,Government,Pending
+P00952,29-01-2026,05-02-2026,76,Male,Stroke,Neurology,Physiotherapy,D124,24200.0,7,Recovered,Navi Mumbai,Corporate,Pending
+P00175,30-01-2026,31-01-2026,29,Male,Fever,General Medicine,Medication,D123,16100.0,1,Recovered,Aurangabad,Government,Paid
+P00692,30-01-2026,06-02-2026,30,Male,Liver Disease,Gastroenterology,Surgery,D114,77200.0,7,Improved,Aurangabad,Corporate,Pending
+P00955,31-01-2026,02-02-2026,73,Female,Ulcer,Gastroenterology,Medication,D102,14500.0,2,Referred,Thane,Corporate,Partially Paid
+P00076,31-01-2026,01-02-2026,63,Male,Severe Infection,Emergency,CT Scan,D111,10200.0,1,Improved,Kalyan,Corporate,Pending
+P00185,02-02-2026,04-02-2026,29,Female,Back Pain,Orthopedics,Medication,D130,15800.0,2,Stable,Nashik,Corporate,Partially Paid
+P00235,02-02-2026,08-02-2026,84,Female,Fracture,Orthopedics,Surgery,D113,96900.0,6,Recovered,Nagpur,Government,Pending
+P00241,02-02-2026,03-02-2026,51,Female,Cancer,Oncology,Medication,D113,14700.0,1,Recovered,Pune,Government,Pending
+P00912,03-02-2026,07-02-2026,62,Female,Skin Allergy,Dermatology,Skin Test,D106,4600.0,4,Improved,Nagpur,Government,Partially Paid
+P00556,03-02-2026,09-02-2026,29,Male,Heart Attack,Cardiology,Angioplasty,D108,113800.0,6,Recovered,Nagpur,Government,Paid
+P00896,04-02-2026,05-02-2026,85,Male,Hypertension,Cardiology,Consultation,D129,2300.0,1,Recovered,Nagpur,Government,Paid
+P00438,04-02-2026,07-02-2026,21,Male,Hypertension,General Medicine,Consultation,D121,2900.0,3,Recovered,Nagpur,Government,Partially Paid
+P00735,05-02-2026,08-02-2026,14,Female,Dermatitis,Dermatology,Medication,D123,10500.0,3,Improved,Nagpur,Private,Paid
+P00714,05-02-2026,06-02-2026,1,Male,Gastritis,Gastroenterology,Consultation,D130,3600.0,1,Stable,Thane,Self-Pay,Paid
+P00704,06-02-2026,07-02-2026,61,Male,Dermatitis,Dermatology,Consultation,D119,3300.0,1,Referred,Thane,Corporate,Pending
+P00978,07-02-2026,14-02-2026,11,Male,Diabetes,General Medicine,Monitoring,D116,6500.0,7,Recovered,Thane,Private,Paid
+P00153,08-02-2026,13-02-2026,66,Female,Cancer,Oncology,Surgery,D117,57300.0,5,Referred,Aurangabad,Government,Paid
+P00825,08-02-2026,10-02-2026,7,Female,Acne,Dermatology,Medication,D120,9800.0,2,Recovered,Navi Mumbai,Private,Paid
+P00024,08-02-2026,12-02-2026,17,Female,Tumor,Oncology,Chemotherapy,D130,66600.0,4,Stable,Pune,Private,Pending
+P00323,09-02-2026,13-02-2026,84,Male,Stroke,Neurology,Medication,D103,13000.0,4,Recovered,Nagpur,Government,Partially Paid
+P00968,10-02-2026,13-02-2026,55,Female,Acne,Dermatology,Consultation,D116,2700.0,3,Recovered,Thane,Self-Pay,Partially Paid
+P00541,11-02-2026,12-02-2026,70,Female,Arthritis,Orthopedics,Consultation,D125,3900.0,1,Referred,Nashik,Corporate,Pending
+P00724,12-02-2026,16-02-2026,1,Male,Fracture,Orthopedics,X-Ray,D107,5100.0,4,Recovered,Mumbai,Government,Paid
+P00553,13-02-2026,16-02-2026,35,Female,Fever,General Medicine,Consultation,D117,3700.0,3,Recovered,Nagpur,Self-Pay,Pending
+P00271,13-02-2026,14-02-2026,56,Female,Arthritis,Orthopedics,Consultation,D130,4000.0,1,Improved,Navi Mumbai,Government,Partially Paid
+P00913,13-02-2026,16-02-2026,75,Female,Severe Infection,Emergency,Medication,D122,14300.0,3,Recovered,Pune,Corporate,Partially Paid
+P00359,13-02-2026,14-02-2026,82,Female,Epilepsy,Neurology,Consultation,D121,3200.0,1,Recovered,Kalyan,Self-Pay,Partially Paid
+P00450,13-02-2026,16-02-2026,59,Male,Gastritis,Gastroenterology,Medication,D111,15400.0,3,Recovered,Nashik,Private,Paid
+P00656,14-02-2026,18-02-2026,8,Female,Arthritis,Orthopedics,Consultation,D114,3000.0,4,Recovered,Navi Mumbai,Self-Pay,Pending
+P00297,14-02-2026,16-02-2026,84,Female,Pneumonia,Pediatrics,CT Scan,D128,8900.0,2,Recovered,Kalyan,Self-Pay,Partially Paid
+P00966,14-02-2026,20-02-2026,23,Female,Tumor,Oncology,Surgery,D112,99300.0,6,Improved,Kalyan,Government,Pending
+P00422,14-02-2026,15-02-2026,56,Female,Hypertension,General Medicine,Monitoring,D107,6700.0,1,Improved,Kalyan,Self-Pay,Pending
+P00744,14-02-2026,15-02-2026,63,Female,Gastritis,Gastroenterology,Consultation,D112,3600.0,1,Stable,Kalyan,Corporate,Partially Paid
+P00805,14-02-2026,16-02-2026,81,Female,Asthma,Pediatrics,Nebulization,D129,5900.0,2,Recovered,Aurangabad,Private,Pending
+P00870,15-02-2026,19-02-2026,74,Male,Injury,Emergency,Surgery,D128,69100.0,4,Improved,Mumbai,Corporate,Pending
+P00252,15-02-2026,19-02-2026,2,Female,Epilepsy,Neurology,MRI,D110,13100.0,4,Improved,Thane,Corporate,Pending
+P00259,15-02-2026,16-02-2026,32,Female,Arthritis,Orthopedics,Consultation,D106,2800.0,1,Stable,Mumbai,Corporate,Pending
+P00526,15-02-2026,16-02-2026,76,Male,Dermatitis,Dermatology,Medication,D114,15600.0,1,Stable,Mumbai,Private,Pending
+P00177,15-02-2026,24-02-2026,27,Female,Pregnancy Complication,Gynecology,Surgery,D117,92600.0,9,Recovered,Kalyan,Corporate,Partially Paid
+P00862,15-02-2026,22-02-2026,17,Female,Arthritis,Orthopedics,Physiotherapy,D103,16500.0,7,Recovered,Navi Mumbai,Self-Pay,Pending
+P00245,15-02-2026,16-02-2026,84,Male,Dermatitis,Dermatology,Consultation,D108,4000.0,1,Recovered,Pune,Corporate,Paid
+P00682,16-02-2026,17-02-2026,6,Female,Arthritis,Orthopedics,Medication,D108,10600.0,1,Recovered,Thane,Corporate,Partially Paid
+P00923,16-02-2026,18-02-2026,10,Male,Heart Disease,Cardiology,Medication,D130,12000.0,2,Improved,Pune,Corporate,Paid
+P00838,16-02-2026,24-02-2026,78,Female,Stroke,Neurology,Physiotherapy,D104,15800.0,8,Improved,Nagpur,Corporate,Paid
+P00121,16-02-2026,17-02-2026,68,Male,Back Pain,Orthopedics,Medication,D106,11600.0,1,Recovered,Thane,Self-Pay,Pending
+P00278,17-02-2026,21-02-2026,71,Female,Cancer,Oncology,Surgery,D104,86000.0,4,Recovered,Mumbai,Corporate,Partially Paid
+P00700,17-02-2026,18-02-2026,78,Female,Severe Infection,Emergency,CT Scan,D113,13400.0,1,Recovered,Pune,Corporate,Paid
+P00353,17-02-2026,18-02-2026,46,Female,Ulcer,Gastroenterology,Endoscopy,D109,13600.0,1,Recovered,Nashik,Government,Pending
+P00288,17-02-2026,20-02-2026,61,Female,Cancer,Oncology,Medication,D127,15500.0,3,Recovered,Nagpur,Self-Pay,Pending
+P00532,19-02-2026,22-02-2026,62,Male,Cancer,Oncology,Medication,D111,14400.0,3,Stable,Navi Mumbai,Self-Pay,Partially Paid
+P00452,19-02-2026,20-02-2026,21,Male,Severe Infection,Emergency,Emergency Treatment,D114,38600.0,1,Improved,Nagpur,Self-Pay,Partially Paid
+P00794,19-02-2026,24-02-2026,2,Male,Asthma,Pediatrics,Medication,D112,11400.0,5,Improved,Navi Mumbai,Government,Partially Paid
+P00044,19-02-2026,20-02-2026,18,Male,Fever,General Medicine,Medication,D123,10700.0,1,Improved,Thane,Private,Pending
+P00822,20-02-2026,23-02-2026,2,Female,Liver Disease,Gastroenterology,CT Scan,D121,8200.0,3,Recovered,Mumbai,Government,Partially Paid
+P00466,21-02-2026,22-02-2026,22,Female,Dermatitis,Dermatology,Consultation,D126,2600.0,1,Recovered,Nagpur,Self-Pay,Partially Paid
+P00510,21-02-2026,25-02-2026,6,Female,Hypertension,Cardiology,Monitoring,D122,4900.0,4,Stable,Aurangabad,Government,Partially Paid
+P00831,21-02-2026,25-02-2026,56,Male,Pneumonia,Pediatrics,CT Scan,D120,9800.0,4,Recovered,Pune,Government,Partially Paid
+P00566,21-02-2026,22-02-2026,30,Female,Tumor,Oncology,Surgery,D123,88900.0,1,Recovered,Nagpur,Corporate,Pending
+P00394,23-02-2026,25-02-2026,84,Female,Tumor,Oncology,Chemotherapy,D113,76500.0,2,Improved,Nagpur,Corporate,Pending
+P00537,23-02-2026,24-02-2026,68,Female,Hypertension,General Medicine,Monitoring,D126,7700.0,1,Recovered,Nagpur,Government,Pending
+P00741,23-02-2026,24-02-2026,52,Female,Diabetes,General Medicine,Consultation,D101,3800.0,1,Stable,Aurangabad,Corporate,Partially Paid
+P00495,24-02-2026,28-02-2026,15,Male,Heart Attack,Cardiology,Emergency Treatment,D125,41900.0,4,Improved,Thane,Corporate,Partially Paid
+P00574,24-02-2026,27-02-2026,8,Male,Hypertension,General Medicine,Consultation,D119,2700.0,3,Improved,Pune,Private,Pending
+P00306,24-02-2026,25-02-2026,50,Female,Asthma,Pediatrics,Medication,D110,10200.0,1,Stable,Nagpur,Corporate,Partially Paid
+P00247,25-02-2026,26-02-2026,34,Male,Ovarian Cyst,Gynecology,Medication,D104,15300.0,1,Improved,Mumbai,Self-Pay,Pending
+P00872,25-02-2026,27-02-2026,41,Female,Skin Allergy,Dermatology,Skin Test,D123,3900.0,2,Recovered,Aurangabad,Corporate,Partially Paid
+P00427,26-02-2026,27-02-2026,30,Male,Acne,Dermatology,Medication,D111,9400.0,1,Improved,Nashik,Self-Pay,Partially Paid
+P00993,26-02-2026,28-02-2026,60,Female,Arthritis,Orthopedics,Medication,D107,13000.0,2,Deceased,Kalyan,Self-Pay,Paid
+P00113,27-02-2026,07-03-2026,19,Female,Arthritis,Orthopedics,Physiotherapy,D106,21700.0,8,Improved,Aurangabad,Corporate,Partially Paid
+P00432,27-02-2026,08-03-2026,19,Female,Injury,Emergency,Physiotherapy,D107,14000.0,9,Stable,Navi Mumbai,Government,Partially Paid
+P00559,27-02-2026,01-03-2026,36,Female,Heart Disease,Cardiology,Angioplasty,D117,109700.0,2,Improved,Pune,Private,Partially Paid
+P00847,28-02-2026,03-03-2026,43,Male,Pregnancy Complication,Gynecology,Monitoring,D106,5800.0,3,Improved,Kalyan,Corporate,Pending
+P00381,28-02-2026,06-03-2026,34,Male,Ovarian Cyst,Gynecology,Surgery,D118,89900.0,6,Recovered,Nashik,Corporate,Pending
+P00163,01-03-2026,02-03-2026,25,Male,Infection,Pediatrics,Consultation,D125,3900.0,1,Deceased,Nagpur,Government,Partially Paid
+P00783,01-03-2026,06-03-2026,63,Male,Heart Disease,Cardiology,Medication,D116,10100.0,5,Recovered,Mumbai,Government,Partially Paid
+P00699,01-03-2026,02-03-2026,55,Female,Diabetes,General Medicine,Consultation,D119,2800.0,1,Improved,Mumbai,Government,Paid
+P00382,01-03-2026,09-03-2026,25,Female,Tumor,Oncology,Surgery,D108,89400.0,8,Recovered,Nagpur,Government,Paid
+P00006,01-03-2026,02-03-2026,83,Male,Tumor,Oncology,MRI,D124,16700.0,1,Recovered,Thane,Government,Pending
+P00543,02-03-2026,07-03-2026,78,Male,Stroke,Neurology,Surgery,D101,98400.0,5,Recovered,Pune,Corporate,Partially Paid
+P00265,03-03-2026,09-03-2026,45,Female,Liver Disease,Gastroenterology,Surgery,D129,70600.0,6,Recovered,Nagpur,Private,Pending
+P00921,03-03-2026,06-03-2026,10,Male,Migraine,Neurology,Consultation,D102,3200.0,3,Recovered,Pune,Corporate,Pending
+P00819,04-03-2026,12-03-2026,19,Female,Fracture,Orthopedics,Physiotherapy,D123,14100.0,8,Recovered,Nashik,Corporate,Partially Paid
+P00060,04-03-2026,05-03-2026,69,Male,Fracture,Orthopedics,Surgery,D118,68600.0,1,Referred,Nagpur,Government,Partially Paid
+P00751,06-03-2026,09-03-2026,78,Male,Back Pain,Orthopedics,Medication,D127,15100.0,3,Recovered,Nagpur,Government,Pending
+P00846,06-03-2026,07-03-2026,65,Male,Hypertension,Cardiology,Consultation,D115,3500.0,1,Improved,Kalyan,Corporate,Pending
+P00890,06-03-2026,07-03-2026,39,Female,Gastritis,Gastroenterology,Endoscopy,D128,15400.0,1,Stable,Aurangabad,Private,Pending
+P00835,07-03-2026,08-03-2026,48,Male,Ovarian Cyst,Gynecology,Ultrasound,D122,5400.0,1,Stable,Mumbai,Private,Partially Paid
+P00780,07-03-2026,08-03-2026,7,Female,Back Pain,Orthopedics,MRI,D104,15700.0,1,Recovered,Navi Mumbai,Government,Partially Paid
+P00089,07-03-2026,11-03-2026,34,Male,Stroke,Neurology,Surgery,D127,86500.0,4,Improved,Navi Mumbai,Private,Partially Paid
+P00999,07-03-2026,10-03-2026,52,Female,PCOS,Gynecology,Ultrasound,D117,4700.0,3,Stable,Nashik,Self-Pay,Paid
+P00534,08-03-2026,10-03-2026,12,Male,Migraine,Neurology,Consultation,D103,3000.0,2,Recovered,Pune,Government,Pending
+P00750,08-03-2026,16-03-2026,74,Male,Fracture,Orthopedics,Physiotherapy,D107,16900.0,8,Improved,Kalyan,Corporate,Pending
+P00136,08-03-2026,09-03-2026,57,Female,Acne,Dermatology,Skin Treatment,D123,6700.0,1,Recovered,Aurangabad,Self-Pay,Partially Paid
+P00666,09-03-2026,18-03-2026,29,Male,Tumor,Oncology,Surgery,D123,90400.0,9,Improved,Navi Mumbai,Government,Paid
+P00647,09-03-2026,17-03-2026,67,Male,Injury,Emergency,Surgery,D101,73100.0,8,Recovered,Nashik,Government,Partially Paid
+P00358,09-03-2026,10-03-2026,27,Female,Cancer,Oncology,Medication,D129,11800.0,1,Stable,Mumbai,Private,Partially Paid
+P00192,09-03-2026,14-03-2026,73,Male,Hypertension,General Medicine,Medication,D118,14300.0,5,Recovered,Kalyan,Self-Pay,Paid
+P00984,10-03-2026,11-03-2026,61,Female,Ovarian Cyst,Gynecology,Ultrasound,D124,5300.0,1,Recovered,Nashik,Government,Partially Paid
+P00538,10-03-2026,13-03-2026,46,Female,Asthma,Pediatrics,Medication,D130,12300.0,3,Recovered,Nashik,Self-Pay,Paid
+P00301,10-03-2026,11-03-2026,60,Male,Infection,Pediatrics,Consultation,D103,3300.0,1,Referred,Aurangabad,Government,Partially Paid
+P00366,13-03-2026,14-03-2026,3,Male,Skin Allergy,Dermatology,Medication,D122,12800.0,1,Stable,Kalyan,Government,Partially Paid
+P00857,13-03-2026,18-03-2026,36,Male,Infection,Pediatrics,Medication,D104,13600.0,5,Improved,Pune,Corporate,Partially Paid
+P00824,13-03-2026,19-03-2026,52,Male,Back Pain,Orthopedics,Physiotherapy,D124,15900.0,6,Recovered,Pune,Corporate,Pending
+P00007,14-03-2026,16-03-2026,72,Male,Infection,Pediatrics,Emergency Treatment,D102,54700.0,2,Recovered,Navi Mumbai,Corporate,Pending
+P00447,14-03-2026,15-03-2026,74,Male,Hypertension,General Medicine,Monitoring,D108,7500.0,1,Recovered,Kalyan,Private,Partially Paid
+P00207,14-03-2026,16-03-2026,39,Female,Arthritis,Orthopedics,Medication,D116,12100.0,2,Recovered,Pune,Self-Pay,Pending
+P00191,14-03-2026,15-03-2026,46,Female,Liver Disease,Gastroenterology,CT Scan,D124,10500.0,1,Recovered,Aurangabad,Self-Pay,Paid
+P00964,14-03-2026,16-03-2026,45,Female,Accident,Emergency,CT Scan,D129,10700.0,2,Referred,Nagpur,Government,Pending
+P00749,15-03-2026,22-03-2026,29,Female,Pregnancy Complication,Gynecology,Surgery,D130,60300.0,7,Improved,Thane,Private,Partially Paid
+P00548,15-03-2026,16-03-2026,6,Female,Infection,Pediatrics,Consultation,D118,3800.0,1,Recovered,Aurangabad,Government,Paid
+P00238,15-03-2026,18-03-2026,19,Male,Back Pain,Orthopedics,Medication,D121,12800.0,3,Recovered,Nashik,Corporate,Pending
+P00263,15-03-2026,16-03-2026,28,Male,Skin Allergy,Dermatology,Consultation,D120,2500.0,1,Improved,Thane,Self-Pay,Pending
+P00440,15-03-2026,16-03-2026,81,Male,Ovarian Cyst,Gynecology,Medication,D114,12000.0,1,Improved,Nagpur,Self-Pay,Pending
+P00375,16-03-2026,17-03-2026,67,Female,Dermatitis,Dermatology,Consultation,D121,4000.0,1,Stable,Aurangabad,Corporate,Paid
+P00156,17-03-2026,18-03-2026,36,Male,Pregnancy Complication,Gynecology,Monitoring,D112,5000.0,1,Recovered,Navi Mumbai,Self-Pay,Paid
+P00275,17-03-2026,22-03-2026,22,Female,Liver Disease,Gastroenterology,Surgery,D116,80800.0,5,Recovered,Thane,Government,Pending
+P00317,17-03-2026,26-03-2026,22,Male,Ulcer,Gastroenterology,Surgery,D104,100400.0,9,Stable,Kalyan,Corporate,Partially Paid
+P00591,18-03-2026,22-03-2026,39,Male,Hypertension,Cardiology,Consultation,D106,2800.0,4,Stable,Aurangabad,Self-Pay,Partially Paid
+P00267,18-03-2026,22-03-2026,31,Female,Diabetes,General Medicine,Medication,D123,15600.0,4,Recovered,Navi Mumbai,Government,Partially Paid
+P00335,18-03-2026,21-03-2026,71,Male,Dermatitis,Dermatology,Skin Treatment,D128,7900.0,3,Stable,Aurangabad,Government,Partially Paid
+P00448,18-03-2026,24-03-2026,25,Female,Ovarian Cyst,Gynecology,Surgery,D125,76000.0,6,Stable,Nagpur,Corporate,Paid
+P00755,20-03-2026,22-03-2026,61,Female,Hypertension,General Medicine,Monitoring,D123,6400.0,2,Recovered,Thane,Corporate,Paid
+P00474,20-03-2026,23-03-2026,76,Female,Back Pain,Orthopedics,Medication,D127,13400.0,3,Recovered,Thane,Private,Pending
+P00429,21-03-2026,23-03-2026,11,Female,Arthritis,Orthopedics,Medication,D117,11900.0,2,Recovered,Kalyan,Government,Paid
+P00637,21-03-2026,29-03-2026,20,Male,Heart Attack,Cardiology,Medication,D110,14800.0,8,Stable,Kalyan,Corporate,Partially Paid
+P00085,22-03-2026,26-03-2026,7,Female,Asthma,Pediatrics,Nebulization,D126,6100.0,4,Recovered,Navi Mumbai,Government,Partially Paid
+P00651,22-03-2026,23-03-2026,57,Female,Fever,General Medicine,Medication,D126,14100.0,1,Improved,Nagpur,Private,Partially Paid
+P00662,22-03-2026,23-03-2026,72,Female,Migraine,Neurology,MRI,D117,19200.0,1,Recovered,Navi Mumbai,Self-Pay,Partially Paid
+P00727,23-03-2026,24-03-2026,57,Female,Skin Allergy,Dermatology,Consultation,D126,3600.0,1,Stable,Aurangabad,Private,Pending
+P00110,23-03-2026,26-03-2026,59,Male,Hypertension,Cardiology,Medication,D119,15200.0,3,Improved,Kalyan,Corporate,Pending
+P00828,23-03-2026,24-03-2026,51,Female,PCOS,Gynecology,Consultation,D104,4000.0,1,Improved,Navi Mumbai,Corporate,Partially Paid
+P00396,23-03-2026,25-03-2026,61,Male,Migraine,Neurology,Medication,D125,9200.0,2,Recovered,Pune,Private,Pending
+P00710,24-03-2026,02-04-2026,2,Female,Tumor,Oncology,Surgery,D111,61400.0,9,Stable,Aurangabad,Corporate,Pending
+P00062,25-03-2026,26-03-2026,81,Male,Gastritis,Gastroenterology,Consultation,D110,2500.0,1,Stable,Pune,Government,Paid
+P00388,25-03-2026,28-03-2026,74,Male,Pneumonia,Pediatrics,Medication,D127,16100.0,3,Improved,Pune,Self-Pay,Paid
+P00213,25-03-2026,28-03-2026,54,Male,Ovarian Cyst,Gynecology,Medication,D121,15400.0,3,Improved,Pune,Private,Paid
+P00612,26-03-2026,31-03-2026,20,Male,Infection,Pediatrics,Emergency Treatment,D124,41800.0,5,Stable,Nagpur,Government,Pending
+P00979,26-03-2026,05-04-2026,73,Male,Injury,Emergency,Physiotherapy,D127,17900.0,10,Improved,Nashik,Private,Pending
+P00364,27-03-2026,30-03-2026,3,Female,Severe Infection,Emergency,CT Scan,D120,13200.0,3,Recovered,Aurangabad,Corporate,Paid
+P00730,27-03-2026,31-03-2026,48,Female,Acne,Dermatology,Skin Treatment,D119,7300.0,4,Improved,Pune,Corporate,Paid
+P00045,28-03-2026,29-03-2026,54,Male,Fever,General Medicine,Consultation,D123,3900.0,1,Improved,Mumbai,Corporate,Pending
+P00592,28-03-2026,29-03-2026,63,Female,Hypertension,Cardiology,Medication,D111,14300.0,1,Stable,Kalyan,Private,Paid
+P00290,28-03-2026,02-04-2026,8,Male,Liver Disease,Gastroenterology,Surgery,D113,59200.0,5,Improved,Nashik,Private,Paid
+P00658,28-03-2026,04-04-2026,53,Male,Stroke,Neurology,Surgery,D118,97400.0,7,Recovered,Pune,Government,Partially Paid
+P00091,29-03-2026,01-04-2026,5,Female,Migraine,Neurology,Medication,D113,10700.0,3,Improved,Aurangabad,Self-Pay,Partially Paid
+P00416,29-03-2026,30-03-2026,67,Male,Diabetes,General Medicine,Medication,D106,9300.0,1,Referred,Mumbai,Government,Paid
+P00070,29-03-2026,30-03-2026,14,Male,Hypertension,General Medicine,Monitoring,D110,5700.0,1,Improved,Kalyan,Private,Pending
+P00693,29-03-2026,01-04-2026,35,Female,Hypertension,General Medicine,Consultation,D129,2700.0,3,Recovered,Pune,Self-Pay,Partially Paid
+P00849,30-03-2026,31-03-2026,80,Male,Stroke,Neurology,Medication,D128,14800.0,1,Improved,Kalyan,Government,Paid
+P00443,30-03-2026,01-04-2026,82,Female,Pneumonia,Pediatrics,CT Scan,D120,8300.0,2,Recovered,Nagpur,Government,Partially Paid
+P00264,30-03-2026,08-04-2026,12,Female,Pregnancy Complication,Gynecology,Surgery,D121,73500.0,9,Recovered,Thane,Private,Pending
+P00230,30-03-2026,31-03-2026,17,Male,Hypertension,Cardiology,Monitoring,D127,5400.0,1,Improved,Thane,Corporate,Pending
+P00554,30-03-2026,03-04-2026,28,Male,Diabetes,General Medicine,Medication,D126,12600.0,4,Stable,Pune,Corporate,Pending
+P00522,31-03-2026,02-04-2026,10,Female,Tumor,Oncology,Surgery,D114,82600.0,2,Recovered,Nashik,Government,Partially Paid
+P00167,31-03-2026,03-04-2026,13,Male,Fever,General Medicine,Consultation,D130,3900.0,3,Recovered,Aurangabad,Corporate,Partially Paid
+P00927,31-03-2026,07-04-2026,2,Male,Ovarian Cyst,Gynecology,Surgery,D102,62000.0,7,Recovered,Navi Mumbai,Self-Pay,Partially Paid
+P00286,01-04-2026,02-04-2026,76,Male,Arthritis,Orthopedics,Consultation,D104,3900.0,1,Improved,Nagpur,Self-Pay,Pending
+P00101,01-04-2026,08-04-2026,41,Female,Stroke,Neurology,Physiotherapy,D127,23500.0,7,Recovered,Pune,Private,Pending
+P00580,01-04-2026,03-04-2026,66,Female,Acne,Dermatology,Skin Treatment,D129,8100.0,2,Improved,Mumbai,Government,Partially Paid
+P00852,01-04-2026,08-04-2026,20,Female,Heart Disease,Cardiology,Angioplasty,D124,112900.0,7,Improved,Navi Mumbai,Self-Pay,Paid
+P00169,02-04-2026,09-04-2026,64,Male,Arthritis,Orthopedics,Medication,D101,15700.0,7,Stable,Nagpur,Private,Pending
+P00649,02-04-2026,11-04-2026,73,Female,Liver Disease,Gastroenterology,Surgery,D120,77600.0,9,Improved,Nashik,Government,Partially Paid
+P00283,03-04-2026,04-04-2026,74,Male,Ovarian Cyst,Gynecology,Ultrasound,D117,7700.0,1,Improved,Nashik,Private,Pending
+P00786,04-04-2026,07-04-2026,26,Female,Diabetes,General Medicine,Medication,D104,15900.0,3,Deceased,Kalyan,Corporate,Partially Paid
+P00648,04-04-2026,06-04-2026,28,Male,Hypertension,Cardiology,Consultation,D104,3700.0,2,Improved,Navi Mumbai,Private,Paid
+P00049,04-04-2026,06-04-2026,3,Male,Asthma,Pediatrics,Consultation,D121,3400.0,2,Stable,Mumbai,Private,Paid
+P00449,05-04-2026,06-04-2026,67,Male,Infection,Pediatrics,Medication,D106,9700.0,1,Improved,Nashik,Corporate,Pending
+P00660,05-04-2026,13-04-2026,1,Female,Pregnancy Complication,Gynecology,Surgery,D121,99500.0,8,Improved,Nashik,Private,Paid
+P00641,05-04-2026,06-04-2026,8,Female,PCOS,Gynecology,Ultrasound,D104,4900.0,1,Improved,Aurangabad,Self-Pay,Partially Paid
+P00672,05-04-2026,09-04-2026,22,Female,Migraine,Neurology,Medication,D104,11200.0,4,Improved,Mumbai,Corporate,Pending
+P00179,05-04-2026,08-04-2026,70,Male,Fever,General Medicine,Medication,D114,15700.0,3,Recovered,Nashik,Government,Partially Paid
+P00909,06-04-2026,08-04-2026,59,Male,Arthritis,Orthopedics,Medication,D129,11200.0,2,Improved,Aurangabad,Private,Pending
+P00728,07-04-2026,09-04-2026,69,Male,Stroke,Neurology,Medication,D113,13000.0,2,Recovered,Aurangabad,Self-Pay,Pending
+P00616,07-04-2026,11-04-2026,71,Male,Infection,Pediatrics,Medication,D117,15600.0,4,Improved,Kalyan,Corporate,Paid
+P00791,07-04-2026,10-04-2026,12,Male,Heart Attack,Cardiology,Angioplasty,D108,105300.0,3,Deceased,Navi Mumbai,Corporate,Pending
+P00670,07-04-2026,08-04-2026,53,Female,Hypertension,Cardiology,Consultation,D116,2500.0,1,Improved,Navi Mumbai,Private,Partially Paid
+P00943,07-04-2026,08-04-2026,42,Female,Asthma,Pediatrics,Medication,D110,13700.0,1,Recovered,Mumbai,Government,Pending
+P00530,07-04-2026,08-04-2026,70,Male,Infection,Pediatrics,Emergency Treatment,D129,55000.0,1,Recovered,Navi Mumbai,Private,Partially Paid
+P00545,07-04-2026,08-04-2026,2,Female,Hypertension,General Medicine,Consultation,D107,3100.0,1,Improved,Aurangabad,Corporate,Pending
+P00564,08-04-2026,17-04-2026,48,Male,Cancer,Oncology,Surgery,D122,56800.0,9,Improved,Pune,Corporate,Pending
+P00233,08-04-2026,12-04-2026,42,Female,Tumor,Oncology,Chemotherapy,D111,70800.0,4,Improved,Mumbai,Private,Paid
+P00048,08-04-2026,14-04-2026,7,Female,Fracture,Orthopedics,Surgery,D111,73300.0,6,Recovered,Navi Mumbai,Corporate,Pending
+P00352,08-04-2026,09-04-2026,32,Male,Arthritis,Orthopedics,Medication,D109,14100.0,1,Improved,Navi Mumbai,Government,Partially Paid
+P00951,09-04-2026,11-04-2026,10,Male,Heart Attack,Cardiology,Angioplasty,D105,88500.0,2,Recovered,Kalyan,Government,Partially Paid
+P00882,09-04-2026,16-04-2026,57,Female,Pregnancy Complication,Gynecology,Surgery,D113,72900.0,7,Recovered,Kalyan,Government,Pending
+P00571,09-04-2026,11-04-2026,50,Female,Fracture,Orthopedics,X-Ray,D118,4200.0,2,Improved,Aurangabad,Corporate,Partially Paid
+P00869,11-04-2026,14-04-2026,26,Male,Hypertension,General Medicine,Medication,D104,16100.0,3,Recovered,Aurangabad,Government,Partially Paid
+P00770,11-04-2026,12-04-2026,32,Male,Skin Allergy,Dermatology,Skin Test,D122,3200.0,1,Improved,Kalyan,Private,Pending
+P00698,13-04-2026,14-04-2026,48,Male,Liver Disease,Gastroenterology,Medication,D124,13200.0,1,Recovered,Mumbai,Corporate,Partially Paid
+P00026,13-04-2026,14-04-2026,79,Male,Ovarian Cyst,Gynecology,Ultrasound,D130,6900.0,1,Improved,Pune,Government,Pending
+P00316,13-04-2026,17-04-2026,12,Female,Injury,Emergency,Physiotherapy,D113,22300.0,4,Recovered,Kalyan,Corporate,Pending
+P00347,13-04-2026,15-04-2026,4,Female,Acne,Dermatology,Skin Treatment,D128,8400.0,2,Stable,Nagpur,Government,Pending
+P00588,14-04-2026,15-04-2026,8,Female,Acne,Dermatology,Skin Treatment,D104,7500.0,1,Improved,Navi Mumbai,Corporate,Pending
+P00209,14-04-2026,15-04-2026,77,Male,Hypertension,General Medicine,Monitoring,D106,7000.0,1,Recovered,Kalyan,Self-Pay,Pending
+P00738,14-04-2026,17-04-2026,22,Male,Accident,Emergency,CT Scan,D109,9300.0,3,Recovered,Pune,Self-Pay,Paid
+P00938,14-04-2026,18-04-2026,46,Female,Hypertension,Cardiology,Medication,D114,13600.0,4,Improved,Mumbai,Private,Pending
+P00115,15-04-2026,16-04-2026,8,Female,Pneumonia,Pediatrics,CT Scan,D127,10200.0,1,Recovered,Nagpur,Private,Partially Paid
+P00606,15-04-2026,17-04-2026,63,Female,Fever,General Medicine,Blood Test,D128,2600.0,2,Stable,Nashik,Private,Pending
+P00029,15-04-2026,20-04-2026,72,Male,Ovarian Cyst,Gynecology,Ultrasound,D102,7000.0,5,Recovered,Navi Mumbai,Government,Pending
+P00205,16-04-2026,19-04-2026,17,Male,Hypertension,General Medicine,Medication,D101,13000.0,3,Recovered,Pune,Self-Pay,Partially Paid
+P00594,16-04-2026,17-04-2026,26,Female,Arthritis,Orthopedics,Medication,D106,11300.0,1,Recovered,Thane,Government,Partially Paid
+P00959,16-04-2026,17-04-2026,38,Male,PCOS,Gynecology,Consultation,D116,2500.0,1,Stable,Nagpur,Private,Paid
+P00521,16-04-2026,18-04-2026,54,Male,Severe Infection,Emergency,Medication,D108,10700.0,2,Recovered,Pune,Government,Partially Paid
+P00143,16-04-2026,17-04-2026,45,Male,Epilepsy,Neurology,MRI,D123,13900.0,1,Recovered,Nashik,Self-Pay,Partially Paid
+P00796,17-04-2026,18-04-2026,80,Female,Migraine,Neurology,MRI,D125,14000.0,1,Recovered,Thane,Government,Paid
+P00138,17-04-2026,18-04-2026,22,Female,Severe Infection,Emergency,Medication,D128,11500.0,1,Recovered,Navi Mumbai,Corporate,Pending
+P00453,17-04-2026,20-04-2026,16,Male,Infection,Pediatrics,Medication,D116,14500.0,3,Recovered,Aurangabad,Private,Partially Paid
+P00876,17-04-2026,18-04-2026,31,Female,Epilepsy,Neurology,Consultation,D111,3400.0,1,Referred,Aurangabad,Government,Paid
+P00916,19-04-2026,21-04-2026,74,Male,Skin Allergy,Dermatology,Skin Test,D122,3000.0,2,Improved,Nagpur,Government,Paid
+P00257,20-04-2026,23-04-2026,26,Male,Asthma,Pediatrics,Medication,D115,10100.0,3,Recovered,Navi Mumbai,Corporate,Paid
+P00423,20-04-2026,21-04-2026,5,Female,Ulcer,Gastroenterology,Medication,D110,16200.0,1,Recovered,Thane,Government,Pending
+P00325,20-04-2026,21-04-2026,29,Male,Migraine,Neurology,MRI,D117,19900.0,1,Recovered,Navi Mumbai,Private,Paid
+P00894,21-04-2026,22-04-2026,15,Male,Injury,Emergency,X-Ray,D115,4200.0,1,Improved,Nashik,Self-Pay,Partially Paid
+P00523,21-04-2026,28-04-2026,18,Female,Fracture,Orthopedics,Physiotherapy,D105,24000.0,7,Recovered,Mumbai,Private,Pending
+P00833,21-04-2026,22-04-2026,21,Male,Diabetes,General Medicine,Consultation,D125,2400.0,1,Recovered,Aurangabad,Self-Pay,Pending
+P00850,21-04-2026,26-04-2026,26,Female,Pregnancy Complication,Gynecology,Surgery,D126,99000.0,5,Recovered,Aurangabad,Corporate,Partially Paid
+P00879,21-04-2026,30-04-2026,17,Male,Back Pain,Orthopedics,Physiotherapy,D107,18400.0,9,Improved,Kalyan,Government,Paid
+P00246,21-04-2026,26-04-2026,40,Male,Severe Infection,Emergency,Emergency Treatment,D123,37000.0,5,Improved,Mumbai,Government,Pending
+P00950,21-04-2026,26-04-2026,54,Female,Heart Disease,Cardiology,Angioplasty,D116,108800.0,5,Improved,Pune,Government,Paid
+P00042,22-04-2026,23-04-2026,68,Female,Fracture,Orthopedics,X-Ray,D120,5300.0,1,Stable,Kalyan,Corporate,Paid
+P00844,23-04-2026,02-05-2026,15,Female,Fracture,Orthopedics,Physiotherapy,D115,16300.0,9,Improved,Nashik,Corporate,Partially Paid
+P00421,23-04-2026,24-04-2026,24,Female,Skin Allergy,Dermatology,Medication,D130,12800.0,1,Improved,Navi Mumbai,Self-Pay,Partially Paid
+P00303,23-04-2026,24-04-2026,24,Male,Fracture,Orthopedics,X-Ray,D101,3400.0,1,Improved,Aurangabad,Self-Pay,Paid
+P00881,24-04-2026,30-04-2026,61,Female,Fracture,Orthopedics,Surgery,D107,81000.0,6,Recovered,Nashik,Corporate,Partially Paid
+P00380,24-04-2026,25-04-2026,15,Female,Accident,Emergency,Emergency Treatment,D108,35600.0,1,Improved,Thane,Self-Pay,Pending
+P00477,25-04-2026,30-04-2026,78,Male,Fracture,Orthopedics,Physiotherapy,D118,21200.0,5,Recovered,Pune,Self-Pay,Partially Paid
+P00837,25-04-2026,03-05-2026,60,Female,Stroke,Neurology,Physiotherapy,D113,14700.0,8,Referred,Kalyan,Government,Pending
+P00478,25-04-2026,26-04-2026,31,Male,Dermatitis,Dermatology,Skin Treatment,D113,7600.0,1,Referred,Pune,Self-Pay,Paid
+P00529,26-04-2026,27-04-2026,24,Female,Back Pain,Orthopedics,MRI,D113,11300.0,1,Improved,Navi Mumbai,Private,Pending
+P00617,26-04-2026,28-04-2026,33,Male,Injury,Emergency,X-Ray,D126,4800.0,2,Recovered,Nashik,Corporate,Paid
+P00338,27-04-2026,06-05-2026,42,Male,Arthritis,Orthopedics,Physiotherapy,D127,21900.0,9,Improved,Nagpur,Corporate,Partially Paid
+P00132,29-04-2026,05-05-2026,48,Female,Heart Attack,Cardiology,Emergency Treatment,D103,53900.0,6,Recovered,Navi Mumbai,Government,Partially Paid
+P00576,29-04-2026,03-05-2026,49,Female,Accident,Emergency,Emergency Treatment,D116,42500.0,4,Recovered,Pune,Government,Pending
+P00996,30-04-2026,01-05-2026,63,Male,Severe Infection,Emergency,Medication,D125,12400.0,1,Stable,Pune,Private,Pending
+P00985,01-05-2026,02-05-2026,23,Male,Hypertension,Cardiology,Consultation,D107,2300.0,1,Improved,Pune,Corporate,Pending
+P00646,01-05-2026,05-05-2026,72,Female,Heart Attack,Cardiology,Angioplasty,D128,117300.0,4,Recovered,Kalyan,Private,Paid
+P00634,01-05-2026,02-05-2026,22,Male,Hypertension,General Medicine,Monitoring,D114,5500.0,1,Improved,Navi Mumbai,Government,Paid
+P00187,01-05-2026,10-05-2026,19,Female,Cancer,Oncology,Surgery,D105,99800.0,9,Improved,Kalyan,Government,Pending
+P00567,02-05-2026,05-05-2026,66,Female,Injury,Emergency,X-Ray,D108,3300.0,3,Improved,Nashik,Private,Paid
+P00664,02-05-2026,05-05-2026,23,Female,Heart Disease,Cardiology,ECG,D116,5400.0,3,Improved,Kalyan,Private,Partially Paid
+P00043,02-05-2026,05-05-2026,82,Female,Ulcer,Gastroenterology,Medication,D103,13500.0,3,Recovered,Nagpur,Government,Pending
+P00701,02-05-2026,05-05-2026,58,Female,Stroke,Neurology,Medication,D123,13000.0,3,Recovered,Aurangabad,Private,Paid
+P00914,02-05-2026,04-05-2026,31,Male,Diabetes,General Medicine,Monitoring,D129,7700.0,2,Recovered,Kalyan,Corporate,Paid
+P00990,02-05-2026,05-05-2026,7,Male,Hypertension,Cardiology,Medication,D122,12700.0,3,Recovered,Aurangabad,Self-Pay,Pending
+P00269,03-05-2026,04-05-2026,26,Male,Hypertension,Cardiology,Monitoring,D102,7400.0,1,Stable,Mumbai,Government,Partially Paid
+P00620,03-05-2026,09-05-2026,85,Female,Liver Disease,Gastroenterology,Surgery,D120,69900.0,6,Stable,Navi Mumbai,Corporate,Pending
+P00661,05-05-2026,06-05-2026,49,Female,Infection,Pediatrics,Consultation,D106,3800.0,1,Recovered,Pune,Self-Pay,Paid
+P00430,05-05-2026,06-05-2026,51,Male,PCOS,Gynecology,Consultation,D117,3300.0,1,Deceased,Thane,Government,Paid
+P00313,05-05-2026,11-05-2026,2,Male,Diabetes,General Medicine,Medication,D103,13800.0,6,Recovered,Pune,Private,Pending
+P00216,06-05-2026,14-05-2026,11,Male,Stroke,Neurology,Physiotherapy,D112,22500.0,8,Improved,Nagpur,Self-Pay,Pending
+P00020,07-05-2026,11-05-2026,8,Male,Gastritis,Gastroenterology,Endoscopy,D109,11700.0,4,Deceased,Aurangabad,Self-Pay,Pending
+P00417,07-05-2026,11-05-2026,74,Female,Cancer,Oncology,Chemotherapy,D112,76100.0,4,Recovered,Thane,Private,Paid
+P00585,07-05-2026,14-05-2026,41,Female,Heart Disease,Cardiology,Angioplasty,D122,89500.0,7,Recovered,Pune,Corporate,Partially Paid
+P00782,08-05-2026,14-05-2026,79,Female,Hypertension,Cardiology,Medication,D101,11400.0,6,Recovered,Navi Mumbai,Government,Pending
+P00486,08-05-2026,14-05-2026,18,Female,Skin Allergy,Dermatology,Medication,D123,15200.0,6,Stable,Kalyan,Government,Pending
+P00232,08-05-2026,11-05-2026,12,Female,Fever,General Medicine,Medication,D128,13600.0,3,Improved,Pune,Corporate,Paid
+P00967,09-05-2026,16-05-2026,31,Male,Injury,Emergency,Physiotherapy,D102,23100.0,7,Stable,Navi Mumbai,Self-Pay,Partially Paid
+P00859,10-05-2026,13-05-2026,63,Male,Hypertension,Cardiology,Medication,D115,15400.0,3,Improved,Nashik,Government,Pending
+P00061,10-05-2026,11-05-2026,37,Female,Migraine,Neurology,MRI,D128,19900.0,1,Recovered,Aurangabad,Private,Paid
+P00289,10-05-2026,13-05-2026,39,Female,Migraine,Neurology,Medication,D103,14200.0,3,Improved,Thane,Corporate,Paid
+P00736,10-05-2026,13-05-2026,54,Female,Heart Disease,Cardiology,Angioplasty,D106,102800.0,3,Improved,Nashik,Self-Pay,Paid
+P00445,10-05-2026,16-05-2026,25,Male,Gastritis,Gastroenterology,Medication,D114,9100.0,6,Recovered,Thane,Government,Paid
+P00454,11-05-2026,13-05-2026,85,Female,Cancer,Oncology,Medication,D120,12300.0,2,Recovered,Mumbai,Government,Partially Paid
+P00904,12-05-2026,14-05-2026,82,Male,Arthritis,Orthopedics,Consultation,D130,2800.0,2,Recovered,Mumbai,Corporate,Partially Paid
+P00186,12-05-2026,14-05-2026,49,Female,Hypertension,Cardiology,Monitoring,D110,7000.0,2,Recovered,Kalyan,Government,Partially Paid
+P00599,12-05-2026,14-05-2026,27,Male,Skin Allergy,Dermatology,Consultation,D114,3500.0,2,Recovered,Nashik,Private,Pending
+P00787,12-05-2026,23-05-2026,65,Female,Fracture,Orthopedics,Physiotherapy,D112,22100.0,11,Recovered,Mumbai,Government,Paid
+P00481,12-05-2026,17-05-2026,18,Male,Heart Disease,Cardiology,Angioplasty,D120,92000.0,5,Recovered,Aurangabad,Government,Paid
+P00863,12-05-2026,15-05-2026,25,Female,Dermatitis,Dermatology,Skin Treatment,D113,9000.0,3,Recovered,Pune,Self-Pay,Paid
+P00577,13-05-2026,14-05-2026,22,Female,Ovarian Cyst,Gynecology,Ultrasound,D126,6300.0,1,Stable,Pune,Government,Pending
+P00977,13-05-2026,15-05-2026,14,Female,Acne,Dermatology,Skin Treatment,D112,6900.0,2,Recovered,Aurangabad,Private,Partially Paid
+P00920,14-05-2026,15-05-2026,70,Female,Cancer,Oncology,Medication,D110,9200.0,1,Stable,Nagpur,Corporate,Partially Paid
+P00581,14-05-2026,22-05-2026,82,Female,Tumor,Oncology,Chemotherapy,D115,51100.0,8,Recovered,Nashik,Government,Paid
+P00645,14-05-2026,16-05-2026,63,Female,Acne,Dermatology,Skin Treatment,D105,5800.0,2,Improved,Pune,Government,Pending
+P00991,15-05-2026,17-05-2026,51,Female,Migraine,Neurology,MRI,D111,14400.0,2,Stable,Pune,Government,Paid
+P00798,16-05-2026,17-05-2026,36,Male,Heart Disease,Cardiology,ECG,D102,4600.0,1,Referred,Thane,Corporate,Pending
+P00829,16-05-2026,17-05-2026,4,Female,Epilepsy,Neurology,Medication,D122,9300.0,1,Recovered,Aurangabad,Private,Partially Paid
+P00753,16-05-2026,18-05-2026,74,Female,Stroke,Neurology,Medication,D102,11100.0,2,Referred,Navi Mumbai,Government,Partially Paid
+P00886,16-05-2026,22-05-2026,40,Male,Injury,Emergency,Physiotherapy,D106,15300.0,6,Improved,Nashik,Self-Pay,Pending
+P00889,16-05-2026,24-05-2026,13,Female,Arthritis,Orthopedics,Physiotherapy,D118,18800.0,8,Recovered,Nagpur,Corporate,Pending
+P00790,16-05-2026,18-05-2026,76,Male,Accident,Emergency,Surgery,D102,66600.0,2,Recovered,Nagpur,Government,Paid
+P00527,17-05-2026,20-05-2026,51,Female,Hypertension,Cardiology,Monitoring,D103,4900.0,3,Improved,Mumbai,Corporate,Paid
+P00100,17-05-2026,24-05-2026,15,Male,Injury,Emergency,Surgery,D114,75600.0,7,Stable,Navi Mumbai,Corporate,Pending
+P00765,18-05-2026,22-05-2026,22,Female,Pneumonia,Pediatrics,CT Scan,D117,9000.0,4,Recovered,Nagpur,Corporate,Paid
+P00322,18-05-2026,20-05-2026,31,Male,Tumor,Oncology,Chemotherapy,D115,66700.0,2,Stable,Pune,Corporate,Pending
+P00678,19-05-2026,23-05-2026,62,Female,Pneumonia,Pediatrics,Emergency Treatment,D102,38800.0,4,Recovered,Mumbai,Government,Pending
+P00487,19-05-2026,21-05-2026,50,Female,Dermatitis,Dermatology,Skin Treatment,D124,5300.0,2,Improved,Thane,Self-Pay,Pending
+P00437,19-05-2026,27-05-2026,77,Male,Stroke,Neurology,Physiotherapy,D101,18400.0,8,Stable,Mumbai,Government,Partially Paid
+P00356,20-05-2026,29-05-2026,65,Male,Stroke,Neurology,Physiotherapy,D126,20700.0,9,Stable,Nashik,Government,Pending
+P00035,20-05-2026,25-05-2026,25,Female,Stroke,Neurology,Medication,D122,12700.0,5,Stable,Thane,Self-Pay,Pending
+P00694,21-05-2026,28-05-2026,36,Male,Ovarian Cyst,Gynecology,Surgery,D102,60700.0,7,Recovered,Thane,Self-Pay,Paid
+P00551,21-05-2026,26-05-2026,21,Male,Accident,Emergency,Emergency Treatment,D102,52500.0,5,Recovered,Nagpur,Self-Pay,Pending
+P00778,22-05-2026,26-05-2026,52,Male,Ovarian Cyst,Gynecology,Surgery,D124,84000.0,4,Stable,Mumbai,Corporate,Partially Paid
+P00135,22-05-2026,24-05-2026,33,Male,Dermatitis,Dermatology,Skin Treatment,D128,6700.0,2,Stable,Navi Mumbai,Self-Pay,Paid
+P00072,24-05-2026,25-05-2026,81,Female,Fever,General Medicine,Consultation,D118,3600.0,1,Recovered,Nashik,Self-Pay,Pending
+P00311,25-05-2026,29-05-2026,18,Female,Infection,Pediatrics,Emergency Treatment,D104,53200.0,4,Recovered,Pune,Corporate,Paid
+P00776,25-05-2026,26-05-2026,12,Female,Tumor,Oncology,MRI,D103,14900.0,1,Recovered,Pune,Private,Partially Paid
+P00307,25-05-2026,26-05-2026,56,Male,Severe Infection,Emergency,Medication,D130,11600.0,1,Recovered,Kalyan,Private,Paid
+P00565,26-05-2026,27-05-2026,51,Female,Migraine,Neurology,Medication,D106,14300.0,1,Stable,Pune,Self-Pay,Paid
+P00861,26-05-2026,27-05-2026,78,Male,Asthma,Pediatrics,Medication,D112,14500.0,1,Recovered,Pune,Government,Paid
+P00320,26-05-2026,29-05-2026,85,Male,Accident,Emergency,Emergency Treatment,D121,46800.0,3,Improved,Kalyan,Government,Partially Paid
+P00547,27-05-2026,31-05-2026,49,Male,Diabetes,General Medicine,Monitoring,D115,5500.0,4,Recovered,Nashik,Government,Paid
+P00911,27-05-2026,28-05-2026,23,Male,Dermatitis,Dermatology,Medication,D126,11400.0,1,Improved,Nashik,Self-Pay,Partially Paid
+P00615,28-05-2026,01-06-2026,60,Female,PCOS,Gynecology,Consultation,D122,2800.0,4,Deceased,Nagpur,Government,Partially Paid
+P00489,28-05-2026,30-05-2026,11,Male,Pneumonia,Pediatrics,CT Scan,D122,11500.0,2,Improved,Nagpur,Private,Pending
+P00598,28-05-2026,29-05-2026,64,Male,Acne,Dermatology,Skin Treatment,D128,6200.0,1,Recovered,Nagpur,Self-Pay,Partially Paid
+P00900,28-05-2026,05-06-2026,65,Female,Liver Disease,Gastroenterology,Surgery,D114,77300.0,8,Recovered,Kalyan,Corporate,Paid
+P00266,30-05-2026,02-06-2026,21,Male,Fever,General Medicine,Medication,D118,10800.0,3,Recovered,Mumbai,Government,Partially Paid
+P00635,30-05-2026,05-06-2026,55,Female,Skin Allergy,Dermatology,Medication,D122,15900.0,6,Improved,Navi Mumbai,Private,Pending
+P00106,30-05-2026,03-06-2026,59,Female,Tumor,Oncology,Chemotherapy,D111,54900.0,4,Recovered,Pune,Private,Paid
+P00053,31-05-2026,04-06-2026,9,Female,Dermatitis,Dermatology,Skin Treatment,D112,7300.0,4,Recovered,Aurangabad,Government,Pending
+P00403,31-05-2026,03-06-2026,9,Male,Pneumonia,Pediatrics,Medication,D123,12300.0,3,Recovered,Aurangabad,Government,Pending
+P00332,01-06-2026,03-06-2026,67,Male,Pneumonia,Pediatrics,Medication,D122,9200.0,2,Recovered,Mumbai,Government,Pending
+P00490,01-06-2026,04-06-2026,66,Female,Hypertension,Cardiology,Consultation,D112,3300.0,3,Recovered,Nagpur,Self-Pay,Paid
+P00779,01-06-2026,02-06-2026,85,Male,Diabetes,General Medicine,Monitoring,D117,6900.0,1,Stable,Thane,Government,Paid
+P00258,02-06-2026,03-06-2026,40,Female,Diabetes,General Medicine,Consultation,D106,2700.0,1,Recovered,Nagpur,Private,Paid
+P00059,02-06-2026,09-06-2026,62,Female,Arthritis,Orthopedics,Physiotherapy,D104,19200.0,7,Recovered,Thane,Self-Pay,Paid
+P00344,03-06-2026,05-06-2026,20,Male,Dermatitis,Dermatology,Medication,D103,12300.0,2,Recovered,Pune,Private,Paid
+P00184,04-06-2026,10-06-2026,65,Female,Cancer,Oncology,Chemotherapy,D119,57900.0,6,Stable,Navi Mumbai,Self-Pay,Paid
+P00970,04-06-2026,08-06-2026,49,Male,Heart Attack,Cardiology,Angioplasty,D112,109600.0,4,Recovered,Pune,Private,Partially Paid
+P00441,05-06-2026,07-06-2026,18,Male,Arthritis,Orthopedics,Consultation,D105,3500.0,2,Improved,Kalyan,Government,Partially Paid
+P00281,06-06-2026,07-06-2026,49,Female,Skin Allergy,Dermatology,Consultation,D127,3000.0,1,Recovered,Nagpur,Private,Paid
+P00998,06-06-2026,09-06-2026,79,Male,Asthma,Pediatrics,Nebulization,D129,4700.0,3,Improved,Navi Mumbai,Government,Partially Paid
+P00488,07-06-2026,16-06-2026,5,Female,Injury,Emergency,Surgery,D116,88000.0,9,Recovered,Pune,Government,Partially Paid
+P00839,07-06-2026,13-06-2026,82,Male,Fracture,Orthopedics,Surgery,D130,83300.0,6,Recovered,Navi Mumbai,Corporate,Pending
+P00211,07-06-2026,11-06-2026,4,Female,Back Pain,Orthopedics,Medication,D103,14700.0,4,Stable,Kalyan,Corporate,Paid
+P00310,08-06-2026,09-06-2026,20,Male,Pneumonia,Pediatrics,CT Scan,D110,11700.0,1,Improved,Kalyan,Private,Partially Paid
+P00803,09-06-2026,11-06-2026,53,Female,Infection,Pediatrics,Medication,D108,14900.0,2,Stable,Nagpur,Government,Pending
+P00058,09-06-2026,14-06-2026,59,Female,Hypertension,General Medicine,Monitoring,D124,5600.0,5,Recovered,Thane,Self-Pay,Paid
+P00339,09-06-2026,13-06-2026,41,Male,Diabetes,General Medicine,Monitoring,D118,7300.0,4,Recovered,Kalyan,Private,Pending
+P00279,09-06-2026,10-06-2026,47,Male,Gastritis,Gastroenterology,Medication,D107,13800.0,1,Improved,Pune,Private,Paid
+P00350,09-06-2026,13-06-2026,9,Female,Stroke,Neurology,Medication,D116,9700.0,4,Improved,Navi Mumbai,Self-Pay,Paid
+P00372,10-06-2026,19-06-2026,48,Female,Pregnancy Complication,Gynecology,Surgery,D112,67700.0,9,Recovered,Kalyan,Government,Partially Paid
+P00065,10-06-2026,12-06-2026,53,Female,Migraine,Neurology,Medication,D110,9200.0,2,Recovered,Aurangabad,Private,Partially Paid
+P00525,11-06-2026,18-06-2026,67,Female,Cancer,Oncology,Surgery,D101,77600.0,7,Recovered,Kalyan,Government,Paid
+P00935,11-06-2026,12-06-2026,37,Female,Dermatitis,Dermatology,Consultation,D113,3600.0,1,Recovered,Aurangabad,Government,Paid
+P00389,12-06-2026,14-06-2026,19,Male,Acne,Dermatology,Medication,D129,12000.0,2,Recovered,Navi Mumbai,Corporate,Pending
+P00260,12-06-2026,15-06-2026,60,Male,PCOS,Gynecology,Medication,D101,14800.0,3,Recovered,Mumbai,Government,Paid
+P00605,12-06-2026,15-06-2026,20,Male,Gastritis,Gastroenterology,Medication,D114,10900.0,3,Improved,Pune,Corporate,Paid
+P00895,13-06-2026,21-06-2026,37,Male,Fracture,Orthopedics,Physiotherapy,D119,13900.0,8,Recovered,Pune,Private,Pending
+P00063,13-06-2026,14-06-2026,80,Male,Dermatitis,Dermatology,Consultation,D119,3900.0,1,Recovered,Kalyan,Self-Pay,Partially Paid
+P00652,14-06-2026,15-06-2026,70,Male,Migraine,Neurology,MRI,D125,19900.0,1,Improved,Aurangabad,Private,Paid
+P00901,14-06-2026,17-06-2026,18,Female,Hypertension,Cardiology,Medication,D129,11700.0,3,Improved,Nagpur,Private,Pending
+P00225,15-06-2026,16-06-2026,53,Female,Ovarian Cyst,Gynecology,Ultrasound,D101,6300.0,1,Recovered,Thane,Self-Pay,Paid
+P00460,16-06-2026,19-06-2026,81,Female,Liver Disease,Gastroenterology,CT Scan,D120,10500.0,3,Recovered,Thane,Self-Pay,Paid
+P00198,17-06-2026,22-06-2026,11,Male,Cancer,Oncology,Surgery,D118,60500.0,5,Recovered,Aurangabad,Private,Partially Paid
+P00442,17-06-2026,22-06-2026,72,Male,Fracture,Orthopedics,Surgery,D105,64500.0,5,Stable,Mumbai,Self-Pay,Pending
+P00200,18-06-2026,19-06-2026,10,Female,Ulcer,Gastroenterology,Medication,D102,15500.0,1,Improved,Nashik,Self-Pay,Paid
+P00865,18-06-2026,20-06-2026,9,Female,Hypertension,General Medicine,Monitoring,D110,6300.0,2,Improved,Navi Mumbai,Corporate,Paid
+P00475,18-06-2026,19-06-2026,60,Male,Arthritis,Orthopedics,Consultation,D108,3500.0,1,Recovered,Thane,Government,Partially Paid
+P00918,18-06-2026,19-06-2026,24,Female,PCOS,Gynecology,Consultation,D127,2600.0,1,Recovered,Aurangabad,Self-Pay,Pending
+P00843,20-06-2026,24-06-2026,77,Male,Skin Allergy,Dermatology,Skin Test,D127,3900.0,4,Recovered,Navi Mumbai,Private,Paid
+P00251,20-06-2026,22-06-2026,7,Male,Diabetes,General Medicine,Monitoring,D129,4700.0,2,Recovered,Aurangabad,Self-Pay,Pending
+P00853,20-06-2026,21-06-2026,51,Male,Skin Allergy,Dermatology,Skin Test,D114,2700.0,1,Referred,Nashik,Corporate,Partially Paid
+P00104,21-06-2026,24-06-2026,80,Male,Tumor,Oncology,MRI,D123,16700.0,3,Improved,Nagpur,Private,Paid
+P00141,21-06-2026,22-06-2026,51,Female,Back Pain,Orthopedics,MRI,D116,12300.0,1,Improved,Kalyan,Private,Pending
+P00766,23-06-2026,29-06-2026,67,Female,Liver Disease,Gastroenterology,Surgery,D123,83500.0,6,Improved,Pune,Private,Paid
+P00385,23-06-2026,24-06-2026,55,Female,Arthritis,Orthopedics,Consultation,D125,2900.0,1,Stable,Nashik,Corporate,Paid
+P00511,24-06-2026,28-06-2026,19,Female,Cancer,Oncology,Chemotherapy,D123,84600.0,4,Recovered,Nashik,Private,Paid
+P00457,24-06-2026,25-06-2026,39,Female,Diabetes,General Medicine,Medication,D118,9500.0,1,Recovered,Pune,Self-Pay,Pending
+P00114,24-06-2026,28-06-2026,83,Female,Liver Disease,Gastroenterology,CT Scan,D105,12700.0,4,Improved,Aurangabad,Private,Pending
+P00160,24-06-2026,25-06-2026,7,Female,Accident,Emergency,CT Scan,D120,8500.0,1,Improved,Kalyan,Government,Partially Paid
+P00845,24-06-2026,25-06-2026,25,Female,Migraine,Neurology,Medication,D107,13300.0,1,Recovered,Thane,Private,Pending
+P00120,26-06-2026,06-07-2026,84,Female,Fracture,Orthopedics,Physiotherapy,D103,14900.0,10,Improved,Nagpur,Corporate,Partially Paid
+P00425,26-06-2026,30-06-2026,39,Male,Cancer,Oncology,Surgery,D111,66000.0,4,Recovered,Aurangabad,Government,Pending
+P00888,26-06-2026,29-06-2026,61,Male,Hypertension,Cardiology,Medication,D122,9300.0,3,Recovered,Nagpur,Government,Partially Paid
+P00154,26-06-2026,29-06-2026,37,Female,Diabetes,General Medicine,Medication,D122,13300.0,3,Stable,Aurangabad,Self-Pay,Partially Paid
+P00945,26-06-2026,29-06-2026,20,Female,Heart Attack,Cardiology,Medication,D108,15900.0,3,Referred,Kalyan,Private,Partially Paid
+P00679,27-06-2026,28-06-2026,46,Female,Dermatitis,Dermatology,Consultation,D120,2500.0,1,Recovered,Navi Mumbai,Self-Pay,Pending
+P00949,27-06-2026,28-06-2026,37,Female,Back Pain,Orthopedics,MRI,D119,15000.0,1,Deceased,Aurangabad,Government,Paid
+P00739,27-06-2026,06-07-2026,13,Male,Tumor,Oncology,Chemotherapy,D102,49000.0,9,Improved,Pune,Government,Partially Paid
+P00763,27-06-2026,04-07-2026,16,Male,Ovarian Cyst,Gynecology,Medication,D106,10300.0,7,Improved,Mumbai,Corporate,Pending
+P00022,27-06-2026,30-06-2026,21,Male,Liver Disease,Gastroenterology,CT Scan,D106,13300.0,3,Recovered,Pune,Private,Partially Paid
+P00395,28-06-2026,02-07-2026,22,Male,Pregnancy Complication,Gynecology,Emergency Treatment,D124,40100.0,4,Recovered,Pune,Government,Paid
+P00962,28-06-2026,02-07-2026,26,Female,Skin Allergy,Dermatology,Skin Test,D106,3600.0,4,Improved,Aurangabad,Self-Pay,Paid
+P00272,29-06-2026,06-07-2026,38,Male,Fracture,Orthopedics,Physiotherapy,D123,15400.0,7,Recovered,Kalyan,Private,Paid
+P00003,29-06-2026,01-07-2026,55,Female,Asthma,Pediatrics,Medication,D113,14500.0,2,Recovered,Pune,Self-Pay,Pending
+P00369,29-06-2026,01-07-2026,18,Female,Accident,Emergency,Emergency Treatment,D129,56900.0,2,Recovered,Kalyan,Self-Pay,Paid
+P00975,29-06-2026,30-06-2026,40,Female,Skin Allergy,Dermatology,Skin Test,D104,3300.0,1,Recovered,Nagpur,Corporate,Pending
+P00253,30-06-2026,03-07-2026,70,Male,Gastritis,Gastroenterology,Consultation,D121,2300.0,3,Improved,Mumbai,Self-Pay,Paid
+P00989,01-07-2026,09-07-2026,79,Female,Injury,Emergency,Physiotherapy,D130,16000.0,8,Recovered,Nashik,Government,Paid
+P00256,01-07-2026,03-07-2026,85,Male,Accident,Emergency,Emergency Treatment,D111,40100.0,2,Recovered,Kalyan,Self-Pay,Pending
+P00954,01-07-2026,05-07-2026,84,Female,Injury,Emergency,Physiotherapy,D117,17600.0,4,Recovered,Nagpur,Private,Paid
+P00500,02-07-2026,03-07-2026,16,Male,Cancer,Oncology,Medication,D122,15200.0,1,Recovered,Nashik,Private,Partially Paid
+P00470,02-07-2026,07-07-2026,6,Male,Stroke,Neurology,Physiotherapy,D110,19100.0,5,Improved,Mumbai,Self-Pay,Partially Paid
+P00513,02-07-2026,07-07-2026,26,Female,Accident,Emergency,Surgery,D104,89500.0,5,Recovered,Nashik,Self-Pay,Paid
+P00480,03-07-2026,09-07-2026,13,Female,Ulcer,Gastroenterology,Surgery,D103,64200.0,6,Referred,Pune,Corporate,Pending
+P00056,03-07-2026,07-07-2026,67,Male,Infection,Pediatrics,Medication,D116,9600.0,4,Improved,Thane,Corporate,Partially Paid
+P00068,04-07-2026,06-07-2026,42,Female,Hypertension,Cardiology,Monitoring,D122,4600.0,2,Recovered,Mumbai,Self-Pay,Partially Paid
+P00119,04-07-2026,05-07-2026,43,Male,Heart Attack,Cardiology,Medication,D128,11800.0,1,Recovered,Nashik,Self-Pay,Paid
+P00103,05-07-2026,09-07-2026,74,Male,Pneumonia,Pediatrics,Medication,D118,15100.0,4,Recovered,Navi Mumbai,Private,Pending
+P00273,06-07-2026,10-07-2026,82,Male,Fever,General Medicine,Medication,D111,14400.0,4,Recovered,Nashik,Private,Partially Paid
+P00004,07-07-2026,10-07-2026,59,Male,Asthma,Pediatrics,Nebulization,D118,6700.0,3,Recovered,Nagpur,Self-Pay,Partially Paid
+P00361,07-07-2026,12-07-2026,57,Male,Heart Attack,Cardiology,Angioplasty,D106,82700.0,5,Recovered,Navi Mumbai,Private,Partially Paid
+P00733,07-07-2026,08-07-2026,33,Male,Liver Disease,Gastroenterology,Medication,D125,15100.0,1,Recovered,Pune,Corporate,Pending
+P00392,08-07-2026,16-07-2026,46,Female,Cancer,Oncology,Surgery,D124,86500.0,8,Improved,Aurangabad,Private,Pending
+P00934,09-07-2026,12-07-2026,28,Male,Hypertension,General Medicine,Monitoring,D114,5700.0,3,Stable,Kalyan,Private,Paid
+P00312,09-07-2026,10-07-2026,26,Female,Tumor,Oncology,MRI,D102,17600.0,1,Recovered,Aurangabad,Government,Partially Paid
+P00295,09-07-2026,11-07-2026,83,Female,Infection,Pediatrics,Emergency Treatment,D115,43200.0,2,Recovered,Nagpur,Corporate,Partially Paid
+P00939,10-07-2026,16-07-2026,57,Male,Pregnancy Complication,Gynecology,Surgery,D108,67900.0,6,Improved,Nashik,Government,Partially Paid
+P00632,10-07-2026,11-07-2026,65,Male,Epilepsy,Neurology,Medication,D107,10200.0,1,Recovered,Navi Mumbai,Government,Partially Paid
+P00321,11-07-2026,15-07-2026,21,Female,Heart Disease,Cardiology,ECG,D108,4000.0,4,Improved,Navi Mumbai,Self-Pay,Paid
+P00158,11-07-2026,12-07-2026,79,Female,Diabetes,General Medicine,Consultation,D117,3300.0,1,Improved,Aurangabad,Self-Pay,Pending
+P00667,12-07-2026,15-07-2026,30,Female,Infection,Pediatrics,Medication,D120,12500.0,3,Improved,Thane,Private,Paid
+P00393,12-07-2026,13-07-2026,19,Male,Pneumonia,Pediatrics,CT Scan,D113,10000.0,1,Improved,Pune,Private,Paid
+P00129,13-07-2026,19-07-2026,33,Male,Heart Disease,Cardiology,Angioplasty,D104,106800.0,6,Improved,Nagpur,Government,Pending
+P00520,13-07-2026,19-07-2026,7,Male,Gastritis,Gastroenterology,Medication,D117,10100.0,6,Recovered,Pune,Private,Paid
+P00813,13-07-2026,14-07-2026,11,Male,Diabetes,General Medicine,Consultation,D122,3200.0,1,Improved,Kalyan,Government,Partially Paid
+P00907,13-07-2026,21-07-2026,82,Male,Stroke,Neurology,Surgery,D124,85800.0,8,Recovered,Thane,Corporate,Pending
+P00919,14-07-2026,15-07-2026,57,Female,PCOS,Gynecology,Medication,D117,13100.0,1,Recovered,Nagpur,Private,Paid
+P00346,14-07-2026,16-07-2026,6,Male,Epilepsy,Neurology,Consultation,D110,2900.0,2,Improved,Nagpur,Private,Pending
+P00397,14-07-2026,15-07-2026,50,Female,Arthritis,Orthopedics,Consultation,D117,3000.0,1,Recovered,Nashik,Private,Paid
+P00674,15-07-2026,16-07-2026,58,Male,Gastritis,Gastroenterology,Consultation,D102,2400.0,1,Recovered,Kalyan,Self-Pay,Partially Paid
+P00064,15-07-2026,16-07-2026,13,Male,Heart Attack,Cardiology,Medication,D103,13500.0,1,Recovered,Nashik,Government,Paid
+P00384,15-07-2026,16-07-2026,36,Female,Hypertension,General Medicine,Monitoring,D117,5200.0,1,Stable,Nagpur,Corporate,Paid
+P00415,15-07-2026,16-07-2026,42,Male,Fever,General Medicine,Medication,D116,11800.0,1,Improved,Nashik,Self-Pay,Pending
+P00025,16-07-2026,21-07-2026,69,Male,Accident,Emergency,Surgery,D108,72000.0,5,Recovered,Navi Mumbai,Self-Pay,Paid
+P00472,16-07-2026,22-07-2026,27,Female,Ovarian Cyst,Gynecology,Surgery,D123,81000.0,6,Recovered,Nagpur,Government,Paid
+P00331,17-07-2026,18-07-2026,17,Male,Infection,Pediatrics,Consultation,D112,2800.0,1,Recovered,Aurangabad,Corporate,Partially Paid
+P00148,18-07-2026,25-07-2026,12,Male,Infection,Pediatrics,Emergency Treatment,D106,49700.0,7,Improved,Navi Mumbai,Private,Paid
+P00234,18-07-2026,23-07-2026,21,Female,Gastritis,Gastroenterology,Medication,D114,12300.0,5,Deceased,Thane,Government,Partially Paid
+P00354,18-07-2026,21-07-2026,3,Male,Epilepsy,Neurology,Medication,D125,14900.0,3,Improved,Thane,Private,Partially Paid
+P00622,18-07-2026,19-07-2026,39,Female,PCOS,Gynecology,Medication,D104,10100.0,1,Recovered,Nashik,Government,Partially Paid
+P00759,19-07-2026,20-07-2026,16,Male,Skin Allergy,Dermatology,Medication,D124,13300.0,1,Recovered,Kalyan,Private,Pending
+P00832,19-07-2026,20-07-2026,19,Female,Gastritis,Gastroenterology,Medication,D126,12900.0,1,Referred,Pune,Corporate,Paid
+P00953,20-07-2026,25-07-2026,38,Female,Liver Disease,Gastroenterology,Surgery,D127,88800.0,5,Improved,Pune,Government,Paid
+P00459,20-07-2026,21-07-2026,78,Female,PCOS,Gynecology,Consultation,D120,2700.0,1,Improved,Navi Mumbai,Government,Partially Paid
+P00219,20-07-2026,21-07-2026,85,Female,Arthritis,Orthopedics,Consultation,D114,3800.0,1,Recovered,Kalyan,Private,Partially Paid
+P00624,20-07-2026,21-07-2026,75,Female,Acne,Dermatology,Consultation,D117,2300.0,1,Recovered,Aurangabad,Government,Partially Paid
+P00512,21-07-2026,22-07-2026,59,Male,Hypertension,Cardiology,Medication,D127,15000.0,1,Recovered,Pune,Private,Pending
+P00992,22-07-2026,23-07-2026,56,Female,Infection,Pediatrics,Medication,D122,12500.0,1,Stable,Pune,Corporate,Partially Paid
+P00212,22-07-2026,23-07-2026,85,Male,Asthma,Pediatrics,Consultation,D103,3500.0,1,Stable,Aurangabad,Corporate,Partially Paid
+P00650,23-07-2026,27-07-2026,58,Male,Ulcer,Gastroenterology,Surgery,D126,95200.0,4,Recovered,Kalyan,Corporate,Paid
+P00399,23-07-2026,01-08-2026,82,Female,Injury,Emergency,Physiotherapy,D110,16000.0,9,Recovered,Navi Mumbai,Corporate,Pending
+P00552,23-07-2026,25-07-2026,38,Male,Diabetes,General Medicine,Consultation,D106,3200.0,2,Stable,Pune,Government,Partially Paid
+P00374,23-07-2026,29-07-2026,61,Female,Heart Disease,Cardiology,Angioplasty,D112,72300.0,6,Recovered,Pune,Private,Partially Paid
+P00462,24-07-2026,25-07-2026,26,Female,Cancer,Oncology,Medication,D110,10800.0,1,Recovered,Navi Mumbai,Private,Paid
+P00242,24-07-2026,25-07-2026,2,Female,Accident,Emergency,CT Scan,D128,13100.0,1,Recovered,Kalyan,Self-Pay,Partially Paid
+P00668,24-07-2026,25-07-2026,73,Female,Skin Allergy,Dermatology,Consultation,D124,2600.0,1,Recovered,Nashik,Private,Partially Paid
+P00771,25-07-2026,02-08-2026,35,Male,Stroke,Neurology,Physiotherapy,D108,13600.0,8,Recovered,Kalyan,Private,Paid
+P00001,25-07-2026,27-07-2026,36,Male,Migraine,Neurology,MRI,D103,17300.0,2,Stable,Kalyan,Private,Paid
+P00139,25-07-2026,26-07-2026,82,Female,Heart Disease,Cardiology,ECG,D105,5800.0,1,Referred,Aurangabad,Private,Paid
+P00172,25-07-2026,26-07-2026,42,Male,Acne,Dermatology,Skin Treatment,D105,6900.0,1,Recovered,Aurangabad,Self-Pay,Paid
+P00775,25-07-2026,27-07-2026,78,Female,Fever,General Medicine,Medication,D117,16100.0,2,Stable,Nagpur,Self-Pay,Pending
+P00126,26-07-2026,01-08-2026,14,Male,Ulcer,Gastroenterology,Surgery,D109,69100.0,6,Stable,Aurangabad,Government,Pending
+P00314,27-07-2026,30-07-2026,34,Female,Tumor,Oncology,Chemotherapy,D128,50700.0,3,Stable,Mumbai,Self-Pay,Pending
+P00639,27-07-2026,29-07-2026,45,Female,Tumor,Oncology,MRI,D113,12000.0,2,Improved,Nashik,Self-Pay,Paid
+P00536,28-07-2026,05-08-2026,9,Male,Hypertension,Cardiology,Medication,D117,15300.0,8,Recovered,Navi Mumbai,Corporate,Partially Paid
+P00180,28-07-2026,29-07-2026,58,Female,Acne,Dermatology,Consultation,D122,2900.0,1,Improved,Nashik,Self-Pay,Paid
+P00074,29-07-2026,30-07-2026,38,Female,Fracture,Orthopedics,X-Ray,D116,4000.0,1,Improved,Thane,Corporate,Partially Paid
+P00218,29-07-2026,02-08-2026,32,Male,Epilepsy,Neurology,Medication,D114,13000.0,4,Recovered,Aurangabad,Government,Pending
+P00760,30-07-2026,02-08-2026,84,Female,Acne,Dermatology,Skin Treatment,D103,6800.0,3,Recovered,Pune,Corporate,Partially Paid
+P00368,30-07-2026,31-07-2026,48,Male,Dermatitis,Dermatology,Skin Treatment,D126,8200.0,1,Recovered,Aurangabad,Corporate,Pending
+P00981,31-07-2026,07-08-2026,62,Male,Tumor,Oncology,Chemotherapy,D101,51800.0,7,Recovered,Nashik,Private,Paid
+P00665,31-07-2026,01-08-2026,57,Male,Epilepsy,Neurology,Medication,D106,15000.0,1,Recovered,Mumbai,Private,Pending
+P00294,31-07-2026,05-08-2026,2,Female,Dermatitis,Dermatology,Medication,D120,15600.0,5,Improved,Mumbai,Government,Pending
+P00117,31-07-2026,04-08-2026,61,Male,Tumor,Oncology,MRI,D123,18500.0,4,Stable,Pune,Government,Paid
+P00659,31-07-2026,04-08-2026,53,Female,Fracture,Orthopedics,X-Ray,D112,3500.0,4,Referred,Nashik,Government,Partially Paid
+P00360,01-08-2026,02-08-2026,49,Male,Epilepsy,Neurology,MRI,D128,15900.0,1,Recovered,Navi Mumbai,Corporate,Pending
+P00948,01-08-2026,02-08-2026,58,Female,Liver Disease,Gastroenterology,Medication,D105,10700.0,1,Stable,Thane,Corporate,Partially Paid
+P00817,01-08-2026,04-08-2026,71,Female,Tumor,Oncology,Chemotherapy,D103,69700.0,3,Recovered,Kalyan,Government,Partially Paid
+P00922,01-08-2026,02-08-2026,54,Female,Heart Disease,Cardiology,Medication,D102,10400.0,1,Stable,Nashik,Government,Partially Paid
+P00610,02-08-2026,03-08-2026,73,Male,Injury,Emergency,X-Ray,D121,3500.0,1,Recovered,Nagpur,Self-Pay,Paid
+P00940,02-08-2026,10-08-2026,84,Male,Heart Disease,Cardiology,Angioplasty,D115,77400.0,8,Improved,Navi Mumbai,Private,Partially Paid
+P00236,02-08-2026,06-08-2026,1,Male,Epilepsy,Neurology,Medication,D108,12400.0,4,Recovered,Aurangabad,Private,Paid
+P00928,02-08-2026,08-08-2026,78,Female,Tumor,Oncology,Surgery,D103,77800.0,6,Recovered,Pune,Self-Pay,Partially Paid
+P00254,03-08-2026,07-08-2026,40,Male,Dermatitis,Dermatology,Consultation,D114,2600.0,4,Deceased,Aurangabad,Private,Paid
+P00133,03-08-2026,06-08-2026,43,Male,Epilepsy,Neurology,Consultation,D125,3700.0,3,Recovered,Aurangabad,Corporate,Partially Paid
+P00785,03-08-2026,10-08-2026,46,Female,Gastritis,Gastroenterology,Medication,D110,14100.0,7,Recovered,Mumbai,Government,Pending
+P00329,03-08-2026,04-08-2026,65,Female,Severe Infection,Emergency,Medication,D113,14000.0,1,Recovered,Navi Mumbai,Self-Pay,Pending
+P00214,03-08-2026,04-08-2026,79,Male,Diabetes,General Medicine,Monitoring,D121,6500.0,1,Improved,Kalyan,Self-Pay,Pending
+P00627,03-08-2026,06-08-2026,50,Female,Gastritis,Gastroenterology,Endoscopy,D126,14300.0,3,Stable,Nashik,Government,Pending
+P00014,04-08-2026,09-08-2026,34,Female,Liver Disease,Gastroenterology,Medication,D125,15900.0,5,Stable,Thane,Self-Pay,Pending
+P00848,04-08-2026,05-08-2026,80,Male,Dermatitis,Dermatology,Skin Treatment,D104,9400.0,1,Stable,Pune,Private,Partially Paid
+P00653,04-08-2026,07-08-2026,36,Male,PCOS,Gynecology,Medication,D126,15400.0,3,Recovered,Navi Mumbai,Corporate,Partially Paid
+P00569,05-08-2026,07-08-2026,26,Female,Pregnancy Complication,Gynecology,Emergency Treatment,D128,40800.0,2,Recovered,Mumbai,Private,Pending
+P00398,06-08-2026,10-08-2026,60,Female,Hypertension,General Medicine,Consultation,D123,3200.0,4,Recovered,Nashik,Corporate,Partially Paid
+P00613,07-08-2026,08-08-2026,26,Female,Stroke,Neurology,Medication,D103,10900.0,1,Improved,Kalyan,Self-Pay,Partially Paid
+P00505,07-08-2026,08-08-2026,43,Female,Acne,Dermatology,Medication,D114,15800.0,1,Improved,Kalyan,Private,Partially Paid
+P00174,08-08-2026,15-08-2026,21,Female,Stroke,Neurology,Physiotherapy,D129,20900.0,7,Stable,Nagpur,Private,Partially Paid
+P00083,08-08-2026,13-08-2026,70,Male,Hypertension,Cardiology,Consultation,D114,4000.0,5,Recovered,Nagpur,Corporate,Pending
+P00047,09-08-2026,14-08-2026,60,Male,Dermatitis,Dermatology,Medication,D122,15500.0,5,Improved,Mumbai,Private,Partially Paid
+P00965,09-08-2026,14-08-2026,51,Female,Ulcer,Gastroenterology,Surgery,D129,66100.0,5,Referred,Nagpur,Corporate,Pending
+P00761,09-08-2026,11-08-2026,76,Female,PCOS,Gynecology,Medication,D116,14700.0,2,Recovered,Kalyan,Self-Pay,Partially Paid
+P00195,09-08-2026,13-08-2026,18,Male,Heart Disease,Cardiology,Medication,D102,10600.0,4,Recovered,Aurangabad,Corporate,Paid
+P00341,09-08-2026,14-08-2026,83,Male,Hypertension,General Medicine,Medication,D104,11300.0,5,Stable,Kalyan,Self-Pay,Partially Paid
+P00544,10-08-2026,11-08-2026,25,Female,Epilepsy,Neurology,MRI,D102,14100.0,1,Improved,Navi Mumbai,Corporate,Paid
+P00351,10-08-2026,18-08-2026,80,Male,Cancer,Oncology,Surgery,D110,76500.0,8,Improved,Nashik,Self-Pay,Pending
+P00590,10-08-2026,11-08-2026,50,Female,Tumor,Oncology,MRI,D129,17000.0,1,Improved,Pune,Government,Pending
+P00015,10-08-2026,12-08-2026,58,Male,Hypertension,General Medicine,Monitoring,D119,4600.0,2,Improved,Thane,Private,Paid
+P00878,10-08-2026,13-08-2026,25,Female,Tumor,Oncology,Chemotherapy,D119,52800.0,3,Recovered,Navi Mumbai,Self-Pay,Partially Paid
+P00274,10-08-2026,12-08-2026,34,Male,Hypertension,General Medicine,Medication,D109,10800.0,2,Recovered,Pune,Private,Paid
+P00324,10-08-2026,13-08-2026,7,Male,Ulcer,Gastroenterology,Endoscopy,D125,15100.0,3,Recovered,Aurangabad,Self-Pay,Partially Paid
+P00189,11-08-2026,15-08-2026,10,Male,Severe Infection,Emergency,Emergency Treatment,D107,51900.0,4,Recovered,Navi Mumbai,Self-Pay,Paid
+P00677,12-08-2026,14-08-2026,43,Male,Hypertension,Cardiology,Monitoring,D127,7100.0,2,Improved,Thane,Government,Partially Paid
+P00531,12-08-2026,14-08-2026,50,Female,Diabetes,General Medicine,Medication,D123,11600.0,2,Improved,Pune,Government,Paid
+P00334,12-08-2026,13-08-2026,83,Female,PCOS,Gynecology,Ultrasound,D126,5400.0,1,Stable,Nagpur,Private,Pending
+P00695,12-08-2026,13-08-2026,36,Male,Hypertension,General Medicine,Consultation,D124,4000.0,1,Improved,Nagpur,Private,Pending
+P00315,13-08-2026,17-08-2026,15,Male,Hypertension,General Medicine,Monitoring,D121,4500.0,4,Recovered,Nashik,Self-Pay,Pending
+P00348,13-08-2026,16-08-2026,72,Male,Diabetes,General Medicine,Monitoring,D120,4900.0,3,Recovered,Kalyan,Private,Pending
+P00124,13-08-2026,14-08-2026,37,Female,Tumor,Oncology,MRI,D126,13400.0,1,Recovered,Aurangabad,Government,Pending
+P00318,14-08-2026,17-08-2026,49,Female,Gastritis,Gastroenterology,Consultation,D129,3400.0,3,Stable,Nashik,Corporate,Pending
+P00465,14-08-2026,15-08-2026,3,Male,Fever,General Medicine,Blood Test,D103,3200.0,1,Stable,Nashik,Self-Pay,Paid
+P00758,14-08-2026,24-08-2026,46,Female,Arthritis,Orthopedics,Physiotherapy,D117,15400.0,10,Recovered,Navi Mumbai,Corporate,Paid
+P00125,14-08-2026,15-08-2026,37,Female,Injury,Emergency,X-Ray,D120,3400.0,1,Recovered,Nashik,Self-Pay,Paid
+P00788,14-08-2026,19-08-2026,2,Female,Hypertension,General Medicine,Monitoring,D103,6200.0,5,Recovered,Kalyan,Government,Partially Paid
+P00533,15-08-2026,16-08-2026,9,Female,Acne,Dermatology,Medication,D123,12800.0,1,Recovered,Nagpur,Corporate,Partially Paid
+P00482,15-08-2026,16-08-2026,39,Female,Hypertension,General Medicine,Monitoring,D103,7100.0,1,Stable,Mumbai,Corporate,Paid
+P00176,15-08-2026,17-08-2026,58,Female,Accident,Emergency,CT Scan,D102,8000.0,2,Improved,Thane,Government,Paid
+P00146,15-08-2026,18-08-2026,71,Male,Pregnancy Complication,Gynecology,Surgery,D117,90800.0,3,Recovered,Mumbai,Private,Partially Paid
+P00752,15-08-2026,16-08-2026,37,Male,Gastritis,Gastroenterology,Consultation,D127,3600.0,1,Stable,Mumbai,Self-Pay,Pending
+P00589,16-08-2026,22-08-2026,47,Female,Tumor,Oncology,Surgery,D120,57200.0,6,Referred,Mumbai,Private,Partially Paid
+P00243,16-08-2026,24-08-2026,3,Male,Fracture,Orthopedics,Surgery,D113,97800.0,8,Referred,Nagpur,Corporate,Pending
+P00497,16-08-2026,20-08-2026,82,Female,Heart Disease,Cardiology,ECG,D111,6500.0,4,Stable,Nagpur,Self-Pay,Paid
+P00799,17-08-2026,24-08-2026,22,Female,Ovarian Cyst,Gynecology,Surgery,D109,91300.0,7,Recovered,Thane,Government,Paid
+P00812,17-08-2026,21-08-2026,15,Female,Dermatitis,Dermatology,Consultation,D104,2600.0,4,Recovered,Nagpur,Self-Pay,Paid
+P00582,17-08-2026,19-08-2026,41,Male,Pneumonia,Pediatrics,Emergency Treatment,D109,50900.0,2,Stable,Nagpur,Government,Pending
+P00583,18-08-2026,22-08-2026,31,Male,Accident,Emergency,Emergency Treatment,D116,55300.0,4,Recovered,Kalyan,Corporate,Partially Paid
+P00595,18-08-2026,19-08-2026,62,Male,Acne,Dermatology,Consultation,D107,3700.0,1,Stable,Pune,Corporate,Pending
+P00743,18-08-2026,27-08-2026,85,Male,Liver Disease,Gastroenterology,Surgery,D121,98600.0,9,Recovered,Navi Mumbai,Private,Partially Paid
+P00814,18-08-2026,19-08-2026,45,Male,Infection,Pediatrics,Consultation,D112,2700.0,1,Improved,Nagpur,Private,Paid
+P00891,18-08-2026,24-08-2026,3,Male,Ovarian Cyst,Gynecology,Medication,D116,13700.0,6,Recovered,Mumbai,Government,Partially Paid
+P00463,18-08-2026,19-08-2026,73,Male,Hypertension,General Medicine,Consultation,D116,3800.0,1,Stable,Aurangabad,Private,Partially Paid
+P00980,19-08-2026,22-08-2026,1,Female,Severe Infection,Emergency,Medication,D126,14000.0,3,Improved,Aurangabad,Corporate,Pending
+P00905,19-08-2026,24-08-2026,1,Male,Cancer,Oncology,Chemotherapy,D116,52500.0,5,Recovered,Mumbai,Corporate,Pending
+P00961,19-08-2026,20-08-2026,13,Female,Diabetes,General Medicine,Consultation,D121,3800.0,1,Improved,Mumbai,Government,Paid
+P00542,19-08-2026,20-08-2026,6,Male,Epilepsy,Neurology,MRI,D101,17400.0,1,Recovered,Kalyan,Government,Pending
+P00410,20-08-2026,22-08-2026,20,Female,Liver Disease,Gastroenterology,CT Scan,D116,12100.0,2,Recovered,Pune,Self-Pay,Partially Paid
+P00093,20-08-2026,21-08-2026,57,Male,Diabetes,General Medicine,Consultation,D121,3500.0,1,Improved,Navi Mumbai,Private,Pending
+P00426,20-08-2026,21-08-2026,83,Female,Accident,Emergency,CT Scan,D113,7700.0,1,Stable,Pune,Private,Pending
+P00628,20-08-2026,21-08-2026,17,Male,Epilepsy,Neurology,MRI,D104,13000.0,1,Improved,Kalyan,Corporate,Pending
+P00517,21-08-2026,23-08-2026,64,Male,Heart Attack,Cardiology,Angioplasty,D108,86300.0,2,Recovered,Thane,Private,Partially Paid
+P00479,22-08-2026,23-08-2026,73,Female,Injury,Emergency,X-Ray,D130,4600.0,1,Recovered,Aurangabad,Private,Partially Paid
+P00516,22-08-2026,24-08-2026,27,Male,Liver Disease,Gastroenterology,Medication,D114,13600.0,2,Improved,Thane,Government,Partially Paid
+P00210,22-08-2026,27-08-2026,42,Female,Liver Disease,Gastroenterology,Medication,D112,11000.0,5,Stable,Pune,Government,Partially Paid
+P00037,23-08-2026,25-08-2026,25,Female,Infection,Pediatrics,Medication,D119,14400.0,2,Recovered,Nagpur,Corporate,Partially Paid
+P00282,23-08-2026,25-08-2026,45,Female,Migraine,Neurology,MRI,D118,20000.0,2,Improved,Mumbai,Corporate,Partially Paid
+P00413,23-08-2026,24-08-2026,24,Female,Gastritis,Gastroenterology,Consultation,D128,3800.0,1,Improved,Nashik,Private,Partially Paid
+P00021,23-08-2026,26-08-2026,63,Male,Ovarian Cyst,Gynecology,Medication,D102,9400.0,3,Improved,Navi Mumbai,Private,Paid
+P00892,23-08-2026,25-08-2026,12,Male,Acne,Dermatology,Medication,D104,15600.0,2,Recovered,Nagpur,Corporate,Partially Paid
+P00092,23-08-2026,24-08-2026,20,Female,Pregnancy Complication,Gynecology,Monitoring,D120,6900.0,1,Stable,Kalyan,Self-Pay,Paid
+P00237,23-08-2026,25-08-2026,17,Female,Diabetes,General Medicine,Consultation,D111,3600.0,2,Recovered,Navi Mumbai,Self-Pay,Paid
+P00073,24-08-2026,26-08-2026,81,Male,Gastritis,Gastroenterology,Medication,D108,9100.0,2,Recovered,Pune,Corporate,Paid
+P00593,24-08-2026,25-08-2026,46,Female,Infection,Pediatrics,Medication,D101,14300.0,1,Recovered,Mumbai,Government,Partially Paid
+P00386,24-08-2026,27-08-2026,2,Male,Pregnancy Complication,Gynecology,Emergency Treatment,D104,52000.0,3,Recovered,Navi Mumbai,Self-Pay,Partially Paid
+P00930,24-08-2026,31-08-2026,7,Female,Ovarian Cyst,Gynecology,Surgery,D120,96800.0,7,Improved,Aurangabad,Self-Pay,Paid
+P00626,24-08-2026,26-08-2026,37,Male,Skin Allergy,Dermatology,Medication,D117,12400.0,2,Recovered,Thane,Self-Pay,Partially Paid
+P00428,24-08-2026,27-08-2026,51,Female,Cancer,Oncology,Chemotherapy,D103,78100.0,3,Improved,Thane,Corporate,Pending
+P00435,24-08-2026,25-08-2026,85,Male,Hypertension,Cardiology,Monitoring,D109,5200.0,1,Improved,Mumbai,Corporate,Partially Paid
+P00638,25-08-2026,26-08-2026,41,Female,Pregnancy Complication,Gynecology,Monitoring,D117,4500.0,1,Recovered,Nashik,Corporate,Pending
+P00745,25-08-2026,26-08-2026,38,Male,Epilepsy,Neurology,MRI,D123,19100.0,1,Stable,Mumbai,Government,Pending
+P00484,26-08-2026,30-08-2026,41,Female,Injury,Emergency,Physiotherapy,D107,17900.0,4,Recovered,Nashik,Corporate,Paid
+P00623,26-08-2026,27-08-2026,3,Female,Ulcer,Gastroenterology,Endoscopy,D102,13100.0,1,Stable,Navi Mumbai,Private,Paid
+P00032,26-08-2026,06-09-2026,61,Male,Stroke,Neurology,Surgery,D112,65200.0,11,Stable,Nagpur,Government,Paid
+P00244,26-08-2026,28-08-2026,69,Male,Skin Allergy,Dermatology,Skin Test,D117,3200.0,2,Recovered,Thane,Government,Partially Paid
+P00851,27-08-2026,28-08-2026,29,Female,Skin Allergy,Dermatology,Consultation,D130,2800.0,1,Stable,Kalyan,Government,Paid
+P00737,27-08-2026,28-08-2026,24,Male,Arthritis,Orthopedics,Medication,D106,10300.0,1,Recovered,Thane,Self-Pay,Pending
+P00270,27-08-2026,29-08-2026,47,Male,Arthritis,Orthopedics,Consultation,D113,2900.0,2,Referred,Pune,Self-Pay,Pending
+P00164,27-08-2026,30-08-2026,45,Female,Ulcer,Gastroenterology,Endoscopy,D118,11100.0,3,Improved,Kalyan,Corporate,Pending
+P00336,27-08-2026,29-08-2026,78,Male,Fever,General Medicine,Blood Test,D110,3000.0,2,Referred,Aurangabad,Government,Partially Paid
+P00222,28-08-2026,30-08-2026,11,Male,Infection,Pediatrics,Emergency Treatment,D104,42200.0,2,Recovered,Nashik,Self-Pay,Partially Paid
+P00734,28-08-2026,29-08-2026,25,Female,Accident,Emergency,CT Scan,D123,8500.0,1,Recovered,Nagpur,Corporate,Partially Paid
+P00496,28-08-2026,30-08-2026,19,Female,Acne,Dermatology,Consultation,D115,2300.0,2,Stable,Kalyan,Self-Pay,Partially Paid
+P00801,29-08-2026,02-09-2026,22,Male,Infection,Pediatrics,Medication,D129,9300.0,4,Recovered,Nagpur,Government,Pending
+P00561,29-08-2026,31-08-2026,76,Male,Ulcer,Gastroenterology,Surgery,D113,64400.0,2,Recovered,Kalyan,Government,Partially Paid
+P00016,29-08-2026,03-09-2026,5,Female,Heart Disease,Cardiology,Angioplasty,D122,71300.0,5,Recovered,Aurangabad,Government,Partially Paid
+P00099,31-08-2026,04-09-2026,42,Male,Gastritis,Gastroenterology,Medication,D111,13600.0,4,Improved,Kalyan,Self-Pay,Pending
+P00255,31-08-2026,02-09-2026,30,Female,Asthma,Pediatrics,Medication,D104,16000.0,2,Recovered,Nashik,Corporate,Paid
+P00690,31-08-2026,01-09-2026,62,Female,Fever,General Medicine,Blood Test,D121,2600.0,1,Improved,Mumbai,Government,Paid
+P00057,31-08-2026,03-09-2026,12,Female,Ulcer,Gastroenterology,Medication,D116,11200.0,3,Improved,Navi Mumbai,Corporate,Partially Paid
