@@ -26,7 +26,7 @@ To transform hospital data into meaningful insights through interactive visualiz
 
 ## Dashboard Screenshots
 
-### Hospital Overview
+### Hospital Operations
 ![Hospital Overview](hospital%20overview.png)
 
 ### Overview Page
