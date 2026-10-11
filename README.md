@@ -25,7 +25,6 @@ An interactive healthcare analytics dashboard developed using Microsoft Power BI
 To transform hospital data into meaningful insights through interactive visualizations and support data-driven decision-making.
 
 ## Dashboard Screenshots
-
 ### Hospital Operations
 ![Hospital Overview](hospital%20overview.png)
 
